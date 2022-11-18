@@ -1,0 +1,130 @@
+.pc-images {
+	display: flex;
+	width: 100%;
+	height: 225px;
+	background-image: url("Profiles/leansilva.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+}
+.pc-images:hover {
+	cursor: pointer;
+}
+.pc-images img{
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	margin-bottom: -75px;
+	margin-left: 16px;
+	border: 4px solid #000;
+	
+}
+
+.pc-images img:hover{
+	cursor: pointer;
+	filter: brightness(.7);
+}
+.pc-images button{
+	display: inline-block;
+	height: 35px;
+	width: 130px;
+	position: absolute;
+	text-align: center;
+	right: 0;
+	bottom: 0;
+	margin-bottom: -50px;
+	margin-right: 20px;
+	border-radius: 20px;
+	background-color: #000;
+	border: 1px solid rgb(113, 118, 123);
+}
+.pc-images button:hover{
+	background-color: #1e1e1e
+}
+
+.pc-name{
+	margin-top: 95px;
+	margin-left: 13px;
+}
+.pc-name h2{
+	font-size: 22px;
+}
+.pc-name h3{
+	margin-top: 4px;
+	font-size: 15px;
+	color: rgb(113, 118, 123);
+}
+
+.pc-city{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-left: 13px;
+	margin-top: 20px;
+}
+
+.pc-city i{
+	font-size: 16px;
+	margin-right: 7px;
+	color: rgb(113, 118, 123);
+}
+
+.pc-city h2{
+	font-size: 17px;
+	color: rgb(113, 118, 123);
+}
+
+.pc-city h3{
+	font-size: 17px;
+	color: rgb(113, 118, 123);
+	margin-left: 15px;
+}
+.pc-followers{
+	margin-top: 20px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+.pc-followers a{
+	font-size: 15px;
+	font-weight: 800;
+	color: rgb(113, 118, 123);
+	text-decoration: none;
+}
+
+.pc-followers a:hover{
+	text-decoration:underline;
+}
+
+.pc-followers :nth-child(2){
+	margin-left: 20px;
+}
+
+.pc-nav {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	height: 60px;
+}
+
+.pc-nav div{
+	align-self: center;
+	width: 60%;
+	height: 100%;
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.pc-nav div:nth-child(2){
+	flex-grow: 2;
+	width: 100%;
+}
+
+.pc-nav div:hover{
+	background-color: #171818;
+	cursor: pointer;
+	border-bottom: 5px solid #008abe;
+}

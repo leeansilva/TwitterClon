@@ -1,0 +1,3701 @@
+{
+    "content": [
+  {
+  "name": "#nerdearla",
+  "nameScreen": "nerdearla",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1413552332911034372/9iyc6FTt_normal.jpg",
+  "text": "🧑‍💻 Del 19 al 22 de octubre vuelve #nerdearla 😍🔥 No olvides registrarte en https://nerdear.la/es",
+  "date": "Thu Nov 07 05:50:39  2013",
+  "favorites": 6659,
+  "rt": "9305",
+  "imagen":"https://pbs.twimg.com/media/Fefs_QZX0AAV47U?format=jpg&name=medium"
+  },
+  {
+    "name": "Sergio #𝔏𝔦𝔤𝔞𝔇𝔢𝔊𝔲𝔢𝔯𝔯𝔢𝔯𝔬𝔰",               
+    "nameScreen": "SergioG79300186",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548893780090159105/6reKkBgz_normal.jpg",
+    "text": "@RicardoBSalinas #tioRichie de acuerdo a su experiencia que % destinado al ahorro conviene invertirlo en #Criptomonedas?",
+    "date": "11min",
+    "favorites": "299",
+    "rt": "3135",
+    "imagen": "https://pbs.twimg.com/media/Fek_Sl3XEAIqXPu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Sergio #𝔏𝔦𝔤𝔞𝔇𝔢𝔊𝔲𝔢𝔯𝔯𝔢𝔯𝔬𝔰",               
+    "nameScreen": "SergioG79300186",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548893780090159105/6reKkBgz_normal.jpg",
+    "text": "@RicardoBSalinas #tioRichie de acuerdo a su experiencia que % destinado al ahorro conviene invertirlo en #Criptomonedas?",
+    "date": "10min",
+    "favorites": "299",
+    "rt": "3135"
+  },
+  {
+    "name": "ハモン",
+    "nameScreen": "hamon_4000",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577658348240969731/5EXuNJo0_normal.png",
+    "text": "動画4つもあげられるのか。すごいじゃん。\n#PSO2NGS #CSGO #blender https://t.co/3xxKqLh2Uw",
+    "date": "2min",
+    "favorites": 14347,
+    "rt": "917"
+  },
+  {
+    "name": "Star Geek Command (SGC)",
+    "nameScreen": "stargeek13",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1468271648721674244/nLPI8537_normal.jpg",
+    "text": "The cancellation of Halo Infinite’s split-screen co-op changes my review Business-as-usual for some modern FPSes, but MSs 2017 pledge makes this one different #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo https://t.co/PyhY3sIPw1",
+    "date": "3min",
+    "favorites": 88,
+    "rt": "23437"
+  },
+  {
+    "name": "Peu.js 👩🏼‍💻",
+    "nameScreen": "LemonPeu",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548331949176983553/Ps_R3XVV_normal.jpg",
+    "text": "Nunca los vi uno al lado del otro (son madre e hijo y ella no lo soporta) 🥺🙏",
+    "date": "Fri Apr 08 01:59:26  2011",
+    "favorites": 66506,
+    "rt": "108871",
+    "imagen": "https://pbs.twimg.com/media/FelMGhDXgAAKZeD?format=jpg&name=large"
+  },
+  {
+    "name": "Muleware",
+    "nameScreen": "muleware_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1551318816268828672/If73NhXS_normal.jpg",
+    "text": "Tweet Im playing more CSGO. Twitch . tv / muleware #CSGO #twitch #VtubersEN",
+    "date": "20min",
+    "favorites": 5619,
+    "rt": "1300"
+  },
+  {
+    "name": "Yung Mario🔋",
+    "nameScreen": "RioPickss",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1519773647124283392/kr6E1BBH_normal.jpg",
+    "text": "I added #CSGO in the #Discord 🫣 got some plays up too ",
+    "date": "10min",
+    "favorites": 3079,
+    "rt": "1611"
+  },
+  {
+  "name": "Ighmaz ◢◤",
+  "nameScreen": "ighmaz_js",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1563514405299822595/gAnmoNVu_normal.jpg",
+  "text": "JavaScript Array method cheatsheet 🔥🚀 https://t.co/CwXeAEgMbo",
+  "date": "Wed Nov 14 11:22:33  2012",
+  "favorites": 74845,
+  "rt": "5158",
+  "imagen": "https://pbs.twimg.com/media/Fei7FjNagAAeX3S?format=jpg&name=large"
+  },
+  {
+    "name": "mil0u 🦇",
+    "nameScreen": "mil0uu_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577476689436839938/zwgZu2uD_normal.jpg",
+    "text": "#CSGO https://t.co/a1OQwF8cR0",
+    "date": "30s",
+    "favorites": 14,
+    "rt": "4"
+  },
+  {
+    "name": "Open Studios",
+    "nameScreen": "OpenStudios1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1431608380003549193/2Kfz4SK7_normal.jpg",
+    "text": "The wifi cage from Amazon doesn’t work.                               #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo #blog #pubg #movies #overwatch #photography #pcgamer https://t.co/JacaGWdeTB",
+    "date": "1min",
+    "favorites": 411,
+    "rt": "50174"
+  },
+  {
+  "name": "Mauro Lorenzo マウロ",
+  "nameScreen": "Lo_Mauro",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1026984734482747392/Ft905XOp_normal.jpg",
+  "text": "Me vuelvo loco. El vestido de la derecha y el de la izquierda (en el encuadre) tienen el MISMO COLOR. https://t.co/nY2AoUZPAk",
+  "date": "Tue Mar 31 05:19:42  2009",
+  "favorites": 96827,
+  "rt": "52118",
+  "imagen": "https://pbs.twimg.com/media/FejH5BPXgAEO1ij?format=jpg&name=small"
+  },
+  {
+    "name": "javier barroso",
+    "nameScreen": "javi20deco",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1347579345582362625/eh7g1_t9_normal.jpg",
+    "text": "Me extraña. Porque a mi me dijeron que este año muy bien. Como los últimos 15 años en los que Juli, oscar, Toscano, Mariano y toda esa pesca te las vendían desde la COPE como la clave del proyecto. Unas especies de Messi. Pero la culpa es SOLO de Ortiz. https://t.co/KuiZAJDJj4",
+    "date": "10min",
+    "favorites": 7961,
+    "rt": "65341"
+  },
+  {
+    "name": "Decime Moy",
+    "nameScreen": "NumasGrijalba",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577351869554376704/5yvZvNJy_normal.jpg",
+    "text": " Mi estimado si sabe que CR7 empezó jugando en el medio campo? Mientras que Messi empezó de falso 9 y de extremo por derecha? Y aun así cristiano tiene más goles que Messi",
+    "date": "2h",
+    "favorites": 11415,
+    "rt": "2234"
+  },
+  {
+    "name": "Gonzalo Rodríguez Gacha ™",
+    "nameScreen": "ElMexicano1947",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1342173624896282625/vyRRkw0Q_normal.jpg",
+    "text": "Para Lionel #Messi debe ser un insulto que lo comparen con #CristianoRonaldo",
+    "date": "20min",
+    "favorites": 4487,
+    "rt": "1132"
+  },
+  {
+    "name": "Lyncoln",
+    "nameScreen": "Muvhitorii",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1554156413836054529/VB6BojLk_normal.jpg",
+    "text": "@tipsypee This is also proof that @ManCity has got world class players. Not everyone can play alongside &amp; flourish with superstars like Haaland, Ronaldo, Messi, Mbappe etc! Classy footballers like Benzema, Foden, Dembele et al dont sulk or begrudge but up their game when stars join them.",
+    "date": "2min",
+    "favorites": 76126,
+    "rt": "64736"
+  },
+  {
+  "name": "PadelArg",
+  "nameScreen": "PadelArg",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1378462631447629825/1y9poDTW_normal.jpg",
+  "text": "Paquito y Martín 🇦🇷 sacaron a bailar a Sanyo🇦🇷-Tapia🇦🇷 6-1/6-1, mismo resultado por el que eliminaron ayer a Stupa🇦🇷-Lima. Definirán el título de Santander, en su despedida, contra Bela🇦🇷-Coello.",
+  "date": "Thu Mar 25 20:08:14  2021",
+  "favorites": 309,
+  "rt": "1417",
+  "imagen": "https://pbs.twimg.com/media/FekT5RBWQAMHVMJ?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Jochen H",
+    "nameScreen": "JochenHh",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1093039296632709120/fegQV5dh_normal.jpg",
+    "text": "@dimepepe0 La liga que... El arbitraje...Ademas no Messi no party.",
+    "date": "12h",
+    "favorites": 10284,
+    "rt": "6289"
+  },
+  {
+    "name": "Messimagic",
+    "nameScreen": "Tamilcinemalov1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1533648472226017280/Pg-nWons_normal.jpg",
+    "text": "@breathMessi21 Blissful sleep yesterday😂 messi should take rest in league games more often",
+    "date": "10h",
+    "favorites": 7655,
+    "rt": "1951"
+  },
+  {
+    "name": "Star Geek Command (SGC)",
+    "nameScreen": "stargeek13",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1468271648721674244/nLPI8537_normal.jpg",
+    "text": "The cancellation of Halo Infinite’s split-screen co-op changes my review Business-as-usual for some modern FPSes, but MSs 2017 pledge makes this one different #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo https://t.co/PyhY3sIPw1",
+    "date": "3min",
+    "favorites": 88,
+    "rt": "23437"
+  },
+  {
+    "name": "Peu.js 👩🏼‍💻",
+    "nameScreen": "LemonPeu",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548331949176983553/Ps_R3XVV_normal.jpg",
+    "text": "Nunca los vi uno al lado del otro (son madre e hijo y ella no lo soporta) 🥺🙏",
+    "date": "Fri Apr 08 01:59:26  2011",
+    "favorites": 66506,
+    "rt": "108871",
+    "imagen": "https://pbs.twimg.com/media/FelMGhDXgAAKZeD?format=jpg&name=large"
+  },
+  {
+    "name": "Muleware",
+    "nameScreen": "muleware_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1551318816268828672/If73NhXS_normal.jpg",
+    "text": "Tweet Im playing more CSGO. Twitch . tv / muleware #CSGO #twitch #VtubersEN",
+    "date": "20min",
+    "favorites": 5619,
+    "rt": "1300"
+  },
+  {
+    "name": "めっし",
+    "nameScreen": "messi_iid",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1553995369691762694/h1ui66pS_normal.jpg",
+    "text": "@FZlycueUmQtjcvY 終盤は24時間以内に「バウンティトナメで優勝」とか難題言われますw 無料でできるならいいですね JOPTもオンラインイベント復活してるのでぜひぜひやりましょー！",
+    "date": "16min",
+    "favorites": 1859,
+    "rt": "1690"
+  },
+  {
+    "name": "BARÇALEO",
+    "nameScreen": "adal_zora",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1567282662112481285/hYho7dnh_normal.jpg",
+    "text": "@Joshua_Ubeku You can’t expect another answer from Cristiano. Messi would never have done it.",
+    "date": "10min",
+    "favorites": 3083,
+    "rt": "4537"
+  },
+  {
+  "name": "HLTV.org",
+  "nameScreen": "HLTVorg",
+  "imgProfile": "http://pbs.twimg.com/profile_images/766575292441845760/ySDr_slD_normal.jpg",
+  "text": "More than just a game 😢#IEM",
+  "date": "Thu Jul 09 22:37:28  2009",
+  "favorites": 595,
+  "rt": "63109",
+  "imagen": "https://pbs.twimg.com/media/Fek_Sl3XEAIqXPu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "🇲🇨 chris 🇲🇨 Monaco 🇲🇨",
+    "nameScreen": "hollybynight11",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1570200623601139715/jrO6rq4D_normal.jpg",
+    "text": "Paris cette saison sans Neymar et Messi… c’est pas terrible.",
+    "date": "8h",
+    "favorites": 2029,
+    "rt": "70345"
+  },
+  {
+    "name": "Im okey💜",
+    "nameScreen": "AmbrosineDionne",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1568069100017942529/lxAt76s3_normal.jpg",
+    "text": "@sehnippoppo Yo no lo leo, solo tengo la representación visual del nombre. Veo el texto junto y mi mente en automático Byeongkwan",
+    "date": "Fri Jan 29 02:13:34  2016",
+    "favorites": 38121,
+    "rt": "3662"
+  },
+  {
+    "name": "Marta Hortelano 🪆" ,
+    "nameScreen": "MartaHortelano",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1447255201962921985/1ScfgZtc_normal.jpg",
+    "text": "Lo más importante de las entrevistas es que el entrevistado se preste. Que entre a la conversación. Cuando eso sucede, el texto se lee solo. #9dOctubre #diadelacomunitatvalenciana ",
+    "date": "Wed Sep 01 09:57:55  2010",
+    "favorites": 3720,
+    "rt": "31670"
+  },
+  {
+    "name": "Aurora Inversora",
+    "nameScreen": "AurorAforismo",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1493146630274658305/o4NGfE1R_normal.jpg",
+    "text": "@nacidoatleti @buscandoameg Las imagenes están bien porque puedes ver las cosas tú mismo. Imagínate tener que informarse solo por el texto de ese @REjercitos . A la vez dice que seguramente sea una ataque de falsa bandera de Rusia que comparte memes de Zelenski diciendo Feliz Cumpleaños Putin🤮🤮",
+    "date": "Mon Feb 14 08:54:16  2022",
+    "favorites": 247,
+    "rt": "241"
+  },
+  {
+    "name": "María 🇪🇺🇺🇦"    ,
+    "nameScreen": "garciaespino7",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1512756815347519497/Uo1KJrx9_normal.jpg",
+    "text": "@_Silvivale Pues yo he visto a mucha gente escribir así. En mecanografía no aprendes sólo velocidad, también la forma correcta de colocar un texto con sus puntos, sus comas y sus espacios.",
+    "date": "Sat May 02 21:42:54  2015",
+    "favorites": 37282,
+    "rt": "26155"
+  },
+  {
+    "name": "A ɴ D R ó M ᴇ D ᴀ ♥️",
+    "nameScreen": "Anddromedda_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1517599172698034182/C9Rmuq74_normal.jpg",
+    "text": "Pues yo me estoy meando de sólo pensar en el tiempo que ha perdido escribiendo este texto de mierda y buscando fotos, vídeos y haciendo capturas 😂😂😂😂😂 https://t.co/sJL1m2ZGGJ",
+    "date": "Fri Jul 30 05:20:02  2021",
+    "favorites": 9766,
+    "rt": "1950"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "La materia no se crea ni se destruye, solo se transforma al igual que el amor.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "Si vas a aferrarte, procura que sea solo a tus metas y sueños, no a personas.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "Carlos Gonzalez",
+    "nameScreen": "carlitroz6969",
+    "imgProfile": "http://pbs.twimg.com/profile_images/477816871794663424/S04bfahV_normal.jpeg",
+    "text": "@MariaGu39714365 Ese texto ya lo había leído hace días, solo copiar y pegar, hasta huevones son",
+    "date": "Fri Apr 29 16:21:22  2011",
+    "favorites": 26348,
+    "rt": "12560"
+  },
+  {
+    "name": "Eevee Hyuuga",
+    "nameScreen": "EeveeHyuuga",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1505284018891276292/KLALP0NA_normal.jpg",
+    "text": "Otro evento web disponible~ es solo texto y un pequeño minijuego para 40 protos y algunos materialesGenshinImpact #Genshin",
+    "date": "Sat Mar 19 20:25:39  2022",
+    "favorites": 5,
+    "rt": "28"
+  },
+  {
+    "name": "rip jann",
+    "nameScreen": "1horndemon",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1563101505816772608/sZhTPjnt_normal.jpg",
+    "text": "hoy por primera vez hablé con mi amigo gringo por chat d voz después de 4 meses de jugar hablando solo por texto, pero lo que el no sabe es que en realidad no es mi amigo, si no una ayuda para mejorar mi inglés https://t.co/Bn14FahyQO",
+    "date": "Tue Apr 13 16:58:30  2021",
+    "favorites": 6731,
+    "rt": "4931"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "Solo la vida vivida para los demás es aquella que merece la pena.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "bot el deconstructor",
+    "nameScreen": "gwy_net_bot",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1402764592758013953/UEOz85uJ_normal.jpg",
+    "text": "el texto sufre sólo palabras del charco de agua",
+    "date": "Mon May 17 06:40:45  2021",
+    "favorites": 26,
+    "rt": "69823"
+  },
+  {
+    "name": "Blitegames",
+    "nameScreen": "blitegames",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1538152776986935298/zleWQWs4_normal.jpg",
+    "text": "Una gran aventura de texto iniciada por creadores anónimos hace 40 años solo se completó este año. #PC #año #anónimos #años #aventura #completo #creadores #este #Gran #hace #iniciada #por #solo #texto ",
+    "date": "Sun Oct 26 21:07:19  2014",
+    "favorites": 36,
+    "rt": "7030"
+  },
+  {
+  "name": "Antoinette lattouf",
+  "nameScreen": "AnToninI2817",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1547753237234663426/fzg5Eofq_normal.jpg",
+  "text": "Lo único q tengo para ofrecer son chistes malos",
+  "date": "Fri Jul 15 01:20:49  2022",
+  "favorites": 20,
+  "rt": "156"
+  },
+  {
+    "name": "Kraso",
+    "nameScreen": "Kraso65262139",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1573207404157747205/h3eZC2FB_normal.jpg",
+    "text": "@Javi19704 Me caes de pm gaitano,llamas a las cosas por su nombre y tus chistes malos me gustan.",
+    "date": "Sun Feb 13 21:59:47  2022",
+    "favorites": 941,
+    "rt": "1835"
+  },
+  {
+    "name": "𝘾𝙔𝙉𝙊."    ,
+    "nameScreen": "chistesdecyno",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578913914124918789/UKOgtCjz_normal.jpg",
+    "text": "Buena noche, sueñen con chistes malos.",
+    "date": "Sat Sep 10 23:49:18  2022",
+    "favorites": 101,
+    "rt": "130"
+  },
+  {
+    "name": "MOFO JOJO",
+    "nameScreen": "HorNicanor",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1521228252630638593/zKu_Cd9P_normal.jpg",
+    "text": "@RicardoBSalinas @MaangelesTc @PonchoGutz Piénselo bien Don Ricardo, a lo mejor le sirve de bufón para animar su fiesta… aunque pensándolo bien, si sus chistes son tan malos como El deforma, mejor no.",
+    "date": "Fri Jul 17 01:25:21  2020",
+    "favorites": 2730,
+    "rt": "3177"
+  },
+  {
+    "name": "meli",
+    "nameScreen": "melignlz",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1505628956959068160/hyK1uFse_normal.jpg",
+    "text": "honestamente los chistes matemáticos de andy están tan malos que me dan risa",
+    "date": "Mon Feb 10 23:23:36  2020",
+    "favorites": 2113,
+    "rt": "987"
+  },
+  {
+    "name": "k. shi",
+    "nameScreen": "cxlicocatt",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578841604735094785/Wdfe6FE5_normal.jpg",
+    "text": "@koceaneyes Voy a tener que seguir con mis chistes malos",
+    "date": "Wed Jul 27 22:04:15  2022",
+    "favorites": 1654,
+    "rt": "1278"
+  },
+  {
+    "name": "charliess 🧛‍♂️ • 🎃 • 👻",
+    "nameScreen": "thekwamisass",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576271435575738372/jcIlVebj_normal.jpg",
+    "text": "Ok, debería dejar de contar chistes malos jajajajjahq",
+    "date": "Tue Mar 16 22:48:42  2021",
+    "favorites": 10638,
+    "rt": "8818"
+  },
+  {
+    "name": "🦇Capitán Rock 🦇",
+    "nameScreen": "dannysays36",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578907863472214017/Sfp3utUU_normal.jpg",
+    "text": "@de_comala Jajajajajaja Segui forzando el chiste que                                  se nota que no tenes la chispa del humor cordobés, forzálo tanto hasta que se te rompa el frenillo, y cura las heridas con alcohol, no con tus chistes malos, porque en un bar vos, hoy, te comerías un cachetazo, con la mano bien abierta.",
+    "date": "Sat Apr 20 15:30:27  2019",
+    "favorites": 46641,
+    "rt": "87667"
+  },
+  {
+    "name": "Gearless Joe",
+    "nameScreen": "Recocar1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1561930162660319237/_2J-BVgm_normal.jpg",
+    "text": "Mi personalidad es hacer chistes malos de los que me río solo y luego mirar a la cámara imaginaria",
+    "date": "Fri May 31 05:57:22  2019",
+    "favorites": 3726,
+    "rt": "2561"
+  },
+  {
+    "name": "RS/SBX | S-tibio",
+    "nameScreen": "Stevegil007",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578410295525052416/rJwtAT7W_normal.jpg",
+    "text": "@Benjamingil007 @andy_pls Este fue un pésimo chiste, obvio fue “Malos Chistes Pls”",
+    "date": "Wed Jul 06 06:14:56  2011",
+    "favorites": 14228,
+    "rt": "12028"
+  },
+  {
+    "name": "Miguel Canales",
+    "nameScreen": "MiguelC59560236",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1561751343483834368/Dn3mvzVa_normal.jpg",
+    "text": "@jose11_gg @RicardoBSalinas @PonchoGutz Jajaja es una fiesta de cumpleaños, que weba tener que aguantar los chistes malos del teto arrastrado",
+    "date": "Thu Jun 16 23:28:00  2022",
+    "favorites": 15670,
+    "rt": "11989"
+  },
+  {
+    "name": "Luis alfonso baez",
+    "nameScreen": "Luisalfonsobae3",
+    "imgProfile": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "text": "@ghitis después del tumbe de las casa de 70 m2 a setecientos millones, y los hps periodistas prepago no dijeron no mierda y ahora haciendo chistes malos ..",
+    "date": "Tue Apr 05 03:39:24  2016",
+    "favorites": 108511,
+    "rt": "78684"
+  },
+  {
+    "name": "kiki",
+    "nameScreen": "___kikii__",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576965135599652866/ErNguK2W_normal.jpg",
+    "text": "extraño a candelita y sus chistes malos 💔",
+    "date": "Mon Oct 03 15:58:45  2022",
+    "favorites": 116,
+    "rt": "44"
+  },
+  {
+    "name": "Massiel Téllez",
+    "nameScreen": "tellez_massiel",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576786653649293313/DOpcuK26_normal.jpg",
+    "text": "De tu voz, de tus carcajadas y tus chistes malos, me estoy olvidando                   de lo segura que me sentía cuando me abrazabas o me tomabas de la mano y lo escuchada que me sentía cuando te contaba mis problemas pero creo que estarás orgullosa...",
+    "date": "Tue Oct 31 05:51:03  2017",
+    "favorites": 52,
+    "rt": "31"
+  },
+  {
+  "name": "santicasas.eth🎗" ,
+  "nameScreen": "santicasas",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1349067865283035138/xkajI2I6_normal.jpg",
+  "text": "@Anvazher @fabianplaza Mi primer ordenador fue un VIC-20 y mi primer trabajo fue de programador de Apple II...",
+  "date": "Mon Dec 29 07:55:27  2008",
+  "favorites": 39674,
+  "rt": "66153"
+},
+{
+  "name": "4Geeks Academy Latam",
+  "nameScreen": "4geeksLatam",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1545237321519349760/35y2AD7D_normal.jpg",
+  "text": "Conseguirás tu primer trabajo, empezarás a ganar dinero pero continuarás aprendiendo hasta convertirte en Senior Developer, ganar muy bien y disfrutar de la vida de un programador. #ProgramaTuHistoria Con 4Geeks Academy.",
+  "date": "Mon Aug 24 22:25:22  2020",
+  "favorites": 188,
+  "rt": "875"
+},
+{
+  "name": "Tongas💛🖤✊",
+  "nameScreen": "gastonfalco8",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1548677031122145283/nRyYmRDC_normal.jpg",
+  "text": "@piarubi @sebas166019 Mi primer trabajo,en un supermercado.Teníamos cajeros, gente atendiendo en verdulería y en los demás sectores Hoy no hay gente en verdulería y no hay cajeros, DÓNDE MIERDA SE GANAN PUESTOS DE TRABAJO??Como dijo un sorete en un comentario,pierden los cajeros,gana UN programador",
+  "date": "Mon Mar 30 01:31:39  2015",
+  "favorites": 104630,
+  "rt": "8763"
+},
+{
+  "name": "Víctor Robles WEB",
+  "nameScreen": "victorobs",
+  "imgProfile": "http://pbs.twimg.com/profile_images/714360954507669504/N3RZeyjE_normal.jpg",
+  "text": "En el video de hoy:  Te voy a enseñar cómo aprender a programar rápido y conseguir tu primer trabajo de ingeniero de software, programador o desarrollador web a tiempo completo, todo paso a paso. 🔥",
+  "date": "Sat Aug 13 14:32:50  2011",
+  "favorites": 170,
+  "rt": "12843"
+},
+{
+  "name": "Gonzalo P 🏳️❌📏✝️" ,
+  "nameScreen": "GonchiP1",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1568229930982424576/bn4l3hVG_normal.jpg",
+  "text": "@CandyCornerSL @maestra_ellen Durante mi primer trabajo como programador, un día nos tocó trabajar desde casa por una huelga de transporte (aquí le llamamos paro), como yo no tenía computadora ni internet, le pedí prestada la suya a mi madre que vivía a dos casa. Cada dos o tres horas iba a decirme que...",
+  "date": "Mon Sep 14 22:55:21  2020",
+  "favorites": 102962,
+  "rt": "48947"
+},
+{
+  "name": "Jose Antonio Martin 🇪🇸🇪🇺🌍"    ,
+  "nameScreen": "joseantonmartin",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1577378477921157127/k-QDL-QE_normal.jpg",
+  "text": "Hazte un programador de primer nivel, estas webs te dan lo que necesitas",
+  "date": "Sun Apr 26 14:49:16  2009",
+  "favorites": 46089,
+  "rt": "27835"
+},
+{
+  "name": "#nerdearla",
+  "nameScreen": "nerdearla",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1413552332911034372/9iyc6FTt_normal.jpg",
+  "text": "🧑‍💻 Del 19 al 22 de octubre vuelve #nerdearla 😍🔥 No olvides registrarte en https://nerdear.la/es",
+  "date": "Thu Nov 07 05:50:39  2013",
+  "favorites": 6659,
+  "rt": "9305",
+  "imagen":"https://pbs.twimg.com/media/Fefs_QZX0AAV47U?format=jpg&name=medium"
+  },
+  {
+    "name": "Sergio #𝔏𝔦𝔤𝔞𝔇𝔢𝔊𝔲𝔢𝔯𝔯𝔢𝔯𝔬𝔰",               
+    "nameScreen": "SergioG79300186",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548893780090159105/6reKkBgz_normal.jpg",
+    "text": "@RicardoBSalinas #tioRichie de acuerdo a su experiencia que % destinado al ahorro conviene invertirlo en #Criptomonedas?",
+    "date": "11min",
+    "favorites": "299",
+    "rt": "3135",
+    "imagen": "https://pbs.twimg.com/media/Fek_Sl3XEAIqXPu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Sergio #𝔏𝔦𝔤𝔞𝔇𝔢𝔊𝔲𝔢𝔯𝔯𝔢𝔯𝔬𝔰",               
+    "nameScreen": "SergioG79300186",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548893780090159105/6reKkBgz_normal.jpg",
+    "text": "@RicardoBSalinas #tioRichie de acuerdo a su experiencia que % destinado al ahorro conviene invertirlo en #Criptomonedas?",
+    "date": "10min",
+    "favorites": "299",
+    "rt": "3135"
+  },
+  {
+    "name": "ハモン",
+    "nameScreen": "hamon_4000",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577658348240969731/5EXuNJo0_normal.png",
+    "text": "動画4つもあげられるのか。すごいじゃん。\n#PSO2NGS #CSGO #blender https://t.co/3xxKqLh2Uw",
+    "date": "2min",
+    "favorites": 14347,
+    "rt": "917"
+  },
+  {
+    "name": "Star Geek Command (SGC)",
+    "nameScreen": "stargeek13",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1468271648721674244/nLPI8537_normal.jpg",
+    "text": "The cancellation of Halo Infinite’s split-screen co-op changes my review Business-as-usual for some modern FPSes, but MSs 2017 pledge makes this one different #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo https://t.co/PyhY3sIPw1",
+    "date": "3min",
+    "favorites": 88,
+    "rt": "23437"
+  },
+  {
+    "name": "Peu.js 👩🏼‍💻",
+    "nameScreen": "LemonPeu",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548331949176983553/Ps_R3XVV_normal.jpg",
+    "text": "Nunca los vi uno al lado del otro (son madre e hijo y ella no lo soporta) 🥺🙏",
+    "date": "Fri Apr 08 01:59:26  2011",
+    "favorites": 66506,
+    "rt": "108871",
+    "imagen": "https://pbs.twimg.com/media/FelMGhDXgAAKZeD?format=jpg&name=large"
+  },
+  {
+    "name": "Muleware",
+    "nameScreen": "muleware_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1551318816268828672/If73NhXS_normal.jpg",
+    "text": "Tweet Im playing more CSGO. Twitch . tv / muleware #CSGO #twitch #VtubersEN",
+    "date": "20min",
+    "favorites": 5619,
+    "rt": "1300"
+  },
+  {
+    "name": "Yung Mario🔋",
+    "nameScreen": "RioPickss",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1519773647124283392/kr6E1BBH_normal.jpg",
+    "text": "I added #CSGO in the #Discord 🫣 got some plays up too ",
+    "date": "10min",
+    "favorites": 3079,
+    "rt": "1611"
+  },
+  {
+  "name": "Ighmaz ◢◤",
+  "nameScreen": "ighmaz_js",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1563514405299822595/gAnmoNVu_normal.jpg",
+  "text": "JavaScript Array method cheatsheet 🔥🚀 https://t.co/CwXeAEgMbo",
+  "date": "Wed Nov 14 11:22:33  2012",
+  "favorites": 74845,
+  "rt": "5158",
+  "imagen": "https://pbs.twimg.com/media/Fei7FjNagAAeX3S?format=jpg&name=large"
+  },
+ {
+  "name": "Ighmaz ◢◤",
+  "nameScreen": "ighmaz_js",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1563514405299822595/gAnmoNVu_normal.jpg",
+  "text": "JavaScript Array method cheatsheet 🔥🚀 https://t.co/CwXeAEgMbo",
+  "date": "Wed Nov 14 11:22:33  2012",
+  "favorites": 74845,
+  "rt": "5158",
+  "imagen": "https://pbs.twimg.com/media/Fei7FjNagAAeX3S?format=jpg&name=large"
+  },
+{
+  "name": "Ighmaz ◢◤",
+  "nameScreen": "ighmaz_js",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1563514405299822595/gAnmoNVu_normal.jpg",
+  "text": "JavaScript Array method cheatsheet 🔥🚀 https://t.co/CwXeAEgMbo",
+  "date": "Wed Nov 14 11:22:33  2012",
+  "favorites": 74845,
+  "rt": "5158",
+  "imagen": "https://pbs.twimg.com/media/Fei7FjNagAAeX3S?format=jpg&name=large"
+  },
+  {
+    "name": "mil0u 🦇",
+    "nameScreen": "mil0uu_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577476689436839938/zwgZu2uD_normal.jpg",
+    "text": "#CSGO https://t.co/a1OQwF8cR0",
+    "date": "30s",
+    "favorites": 14,
+    "rt": "4"
+  },
+  {
+    "name": "Open Studios",
+    "nameScreen": "OpenStudios1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1431608380003549193/2Kfz4SK7_normal.jpg",
+    "text": "The wifi cage from Amazon doesn’t work.                               #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo #blog #pubg #movies #overwatch #photography #pcgamer https://t.co/JacaGWdeTB",
+    "date": "1min",
+    "favorites": 411,
+    "rt": "50174"
+  },
+  {
+    "name": "mil0u 🦇",
+    "nameScreen": "mil0uu_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577476689436839938/zwgZu2uD_normal.jpg",
+    "text": "#CSGO https://t.co/a1OQwF8cR0",
+    "date": "30s",
+    "favorites": 14,
+    "rt": "4"
+  },
+  {
+    "name": "Open Studios",
+    "nameScreen": "OpenStudios1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1431608380003549193/2Kfz4SK7_normal.jpg",
+    "text": "The wifi cage from Amazon doesn’t work.                               #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo #blog #pubg #movies #overwatch #photography #pcgamer https://t.co/JacaGWdeTB",
+    "date": "1min",
+    "favorites": 411,
+    "rt": "50174"
+  },
+  {
+  "name": "Mauro Lorenzo マウロ",
+  "nameScreen": "Lo_Mauro",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1026984734482747392/Ft905XOp_normal.jpg",
+  "text": "Me vuelvo loco. El vestido de la derecha y el de la izquierda (en el encuadre) tienen el MISMO COLOR. https://t.co/nY2AoUZPAk",
+  "date": "Tue Mar 31 05:19:42  2009",
+  "favorites": 96827,
+  "rt": "52118",
+  "imagen": "https://pbs.twimg.com/media/FejH5BPXgAEO1ij?format=jpg&name=small"
+  },
+  {
+    "name": "javier barroso",
+    "nameScreen": "javi20deco",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1347579345582362625/eh7g1_t9_normal.jpg",
+    "text": "Me extraña. Porque a mi me dijeron que este año muy bien. Como los últimos 15 años en los que Juli, oscar, Toscano, Mariano y toda esa pesca te las vendían desde la COPE como la clave del proyecto. Unas especies de Messi. Pero la culpa es SOLO de Ortiz. https://t.co/KuiZAJDJj4",
+    "date": "10min",
+    "favorites": 7961,
+    "rt": "65341"
+  },
+  {
+    "name": "Decime Moy",
+    "nameScreen": "NumasGrijalba",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577351869554376704/5yvZvNJy_normal.jpg",
+    "text": " Mi estimado si sabe que CR7 empezó jugando en el medio campo? Mientras que Messi empezó de falso 9 y de extremo por derecha? Y aun así cristiano tiene más goles que Messi",
+    "date": "2h",
+    "favorites": 11415,
+    "rt": "2234"
+  },
+  {
+    "name": "Gonzalo Rodríguez Gacha ™",
+    "nameScreen": "ElMexicano1947",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1342173624896282625/vyRRkw0Q_normal.jpg",
+    "text": "Para Lionel #Messi debe ser un insulto que lo comparen con #CristianoRonaldo",
+    "date": "20min",
+    "favorites": 4487,
+    "rt": "1132"
+  },
+  {
+    "name": "Lyncoln",
+    "nameScreen": "Muvhitorii",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1554156413836054529/VB6BojLk_normal.jpg",
+    "text": "@tipsypee This is also proof that @ManCity has got world class players. Not everyone can play alongside &amp; flourish with superstars like Haaland, Ronaldo, Messi, Mbappe etc! Classy footballers like Benzema, Foden, Dembele et al dont sulk or begrudge but up their game when stars join them.",
+    "date": "2min",
+    "favorites": 76126,
+    "rt": "64736"
+  },
+  {
+  "name": "PadelArg",
+  "nameScreen": "PadelArg",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1378462631447629825/1y9poDTW_normal.jpg",
+  "text": "Paquito y Martín 🇦🇷 sacaron a bailar a Sanyo🇦🇷-Tapia🇦🇷 6-1/6-1, mismo resultado por el que eliminaron ayer a Stupa🇦🇷-Lima. Definirán el título de Santander, en su despedida, contra Bela🇦🇷-Coello.",
+  "date": "Thu Mar 25 20:08:14  2021",
+  "favorites": 309,
+  "rt": "1417",
+  "imagen": "https://pbs.twimg.com/media/FekT5RBWQAMHVMJ?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Jochen H",
+    "nameScreen": "JochenHh",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1093039296632709120/fegQV5dh_normal.jpg",
+    "text": "@dimepepe0 La liga que... El arbitraje...Ademas no Messi no party.",
+    "date": "12h",
+    "favorites": 10284,
+    "rt": "6289"
+  },
+  {
+    "name": "Messimagic",
+    "nameScreen": "Tamilcinemalov1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1533648472226017280/Pg-nWons_normal.jpg",
+    "text": "@breathMessi21 Blissful sleep yesterday😂 messi should take rest in league games more often",
+    "date": "10h",
+    "favorites": 7655,
+    "rt": "1951"
+  },
+  {
+    "name": "めっし",
+    "nameScreen": "messi_iid",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1553995369691762694/h1ui66pS_normal.jpg",
+    "text": "@FZlycueUmQtjcvY 終盤は24時間以内に「バウンティトナメで優勝」とか難題言われますw 無料でできるならいいですね JOPTもオンラインイベント復活してるのでぜひぜひやりましょー！",
+    "date": "16min",
+    "favorites": 1859,
+    "rt": "1690"
+  },
+  {
+    "name": "BARÇALEO",
+    "nameScreen": "adal_zora",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1567282662112481285/hYho7dnh_normal.jpg",
+    "text": "@Joshua_Ubeku You can’t expect another answer from Cristiano. Messi would never have done it.",
+    "date": "10min",
+    "favorites": 3083,
+    "rt": "4537"
+  },
+  {
+  "name": "HLTV.org",
+  "nameScreen": "HLTVorg",
+  "imgProfile": "http://pbs.twimg.com/profile_images/766575292441845760/ySDr_slD_normal.jpg",
+  "text": "More than just a game 😢#IEM",
+  "date": "Thu Jul 09 22:37:28  2009",
+  "favorites": 595,
+  "rt": "63109",
+  "imagen": "https://pbs.twimg.com/media/Fek_Sl3XEAIqXPu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "🇲🇨 chris 🇲🇨 Monaco 🇲🇨",
+    "nameScreen": "hollybynight11",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1570200623601139715/jrO6rq4D_normal.jpg",
+    "text": "Paris cette saison sans Neymar et Messi… c’est pas terrible.",
+    "date": "8h",
+    "favorites": 2029,
+    "rt": "70345"
+  },
+  {
+    "name": "Im okey💜",
+    "nameScreen": "AmbrosineDionne",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1568069100017942529/lxAt76s3_normal.jpg",
+    "text": "@sehnippoppo Yo no lo leo, solo tengo la representación visual del nombre. Veo el texto junto y mi mente en automático Byeongkwan",
+    "date": "Fri Jan 29 02:13:34  2016",
+    "favorites": 38121,
+    "rt": "3662"
+  },
+  {
+    "name": "Marta Hortelano 🪆" ,
+    "nameScreen": "MartaHortelano",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1447255201962921985/1ScfgZtc_normal.jpg",
+    "text": "Lo más importante de las entrevistas es que el entrevistado se preste. Que entre a la conversación. Cuando eso sucede, el texto se lee solo. #9dOctubre #diadelacomunitatvalenciana ",
+    "date": "Wed Sep 01 09:57:55  2010",
+    "favorites": 3720,
+    "rt": "31670"
+  },
+  {
+    "name": "Aurora Inversora",
+    "nameScreen": "AurorAforismo",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1493146630274658305/o4NGfE1R_normal.jpg",
+    "text": "@nacidoatleti @buscandoameg Las imagenes están bien porque puedes ver las cosas tú mismo. Imagínate tener que informarse solo por el texto de ese @REjercitos . A la vez dice que seguramente sea una ataque de falsa bandera de Rusia que comparte memes de Zelenski diciendo Feliz Cumpleaños Putin🤮🤮",
+    "date": "Mon Feb 14 08:54:16  2022",
+    "favorites": 247,
+    "rt": "241"
+  },
+  {
+    "name": "María 🇪🇺🇺🇦"    ,
+    "nameScreen": "garciaespino7",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1512756815347519497/Uo1KJrx9_normal.jpg",
+    "text": "@_Silvivale Pues yo he visto a mucha gente escribir así. En mecanografía no aprendes sólo velocidad, también la forma correcta de colocar un texto con sus puntos, sus comas y sus espacios.",
+    "date": "Sat May 02 21:42:54  2015",
+    "favorites": 37282,
+    "rt": "26155"
+  },
+  {
+    "name": "A ɴ D R ó M ᴇ D ᴀ ♥️",
+    "nameScreen": "Anddromedda_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1517599172698034182/C9Rmuq74_normal.jpg",
+    "text": "Pues yo me estoy meando de sólo pensar en el tiempo que ha perdido escribiendo este texto de mierda y buscando fotos, vídeos y haciendo capturas 😂😂😂😂😂 https://t.co/sJL1m2ZGGJ",
+    "date": "Fri Jul 30 05:20:02  2021",
+    "favorites": 9766,
+    "rt": "1950"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "La materia no se crea ni se destruye, solo se transforma al igual que el amor.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "Si vas a aferrarte, procura que sea solo a tus metas y sueños, no a personas.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "Carlos Gonzalez",
+    "nameScreen": "carlitroz6969",
+    "imgProfile": "http://pbs.twimg.com/profile_images/477816871794663424/S04bfahV_normal.jpeg",
+    "text": "@MariaGu39714365 Ese texto ya lo había leído hace días, solo copiar y pegar, hasta huevones son",
+    "date": "Fri Apr 29 16:21:22  2011",
+    "favorites": 26348,
+    "rt": "12560"
+  },
+  {
+    "name": "Eevee Hyuuga",
+    "nameScreen": "EeveeHyuuga",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1505284018891276292/KLALP0NA_normal.jpg",
+    "text": "Otro evento web disponible~ es solo texto y un pequeño minijuego para 40 protos y algunos materialesGenshinImpact #Genshin",
+    "date": "Sat Mar 19 20:25:39  2022",
+    "favorites": 5,
+    "rt": "28"
+  },
+  {
+    "name": "rip jann",
+    "nameScreen": "1horndemon",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1563101505816772608/sZhTPjnt_normal.jpg",
+    "text": "hoy por primera vez hablé con mi amigo gringo por chat d voz después de 4 meses de jugar hablando solo por texto, pero lo que el no sabe es que en realidad no es mi amigo, si no una ayuda para mejorar mi inglés https://t.co/Bn14FahyQO",
+    "date": "Tue Apr 13 16:58:30  2021",
+    "favorites": 6731,
+    "rt": "4931"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "Solo la vida vivida para los demás es aquella que merece la pena.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "bot el deconstructor",
+    "nameScreen": "gwy_net_bot",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1402764592758013953/UEOz85uJ_normal.jpg",
+    "text": "el texto sufre sólo palabras del charco de agua",
+    "date": "Mon May 17 06:40:45  2021",
+    "favorites": 26,
+    "rt": "69823"
+  },
+  {
+    "name": "Blitegames",
+    "nameScreen": "blitegames",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1538152776986935298/zleWQWs4_normal.jpg",
+    "text": "Una gran aventura de texto iniciada por creadores anónimos hace 40 años solo se completó este año. #PC #año #anónimos #años #aventura #completo #creadores #este #Gran #hace #iniciada #por #solo #texto ",
+    "date": "Sun Oct 26 21:07:19  2014",
+    "favorites": 36,
+    "rt": "7030"
+  },
+  {
+  "name": "Antoinette lattouf",
+  "nameScreen": "AnToninI2817",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1547753237234663426/fzg5Eofq_normal.jpg",
+  "text": "Lo único q tengo para ofrecer son chistes malos",
+  "date": "Fri Jul 15 01:20:49  2022",
+  "favorites": 20,
+  "rt": "156"
+  },
+  {
+    "name": "Kraso",
+    "nameScreen": "Kraso65262139",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1573207404157747205/h3eZC2FB_normal.jpg",
+    "text": "@Javi19704 Me caes de pm gaitano,llamas a las cosas por su nombre y tus chistes malos me gustan.",
+    "date": "Sun Feb 13 21:59:47  2022",
+    "favorites": 941,
+    "rt": "1835"
+  },
+  {
+    "name": "𝘾𝙔𝙉𝙊."    ,
+    "nameScreen": "chistesdecyno",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578913914124918789/UKOgtCjz_normal.jpg",
+    "text": "Buena noche, sueñen con chistes malos.",
+    "date": "Sat Sep 10 23:49:18  2022",
+    "favorites": 101,
+    "rt": "130"
+  },
+  {
+    "name": "MOFO JOJO",
+    "nameScreen": "HorNicanor",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1521228252630638593/zKu_Cd9P_normal.jpg",
+    "text": "@RicardoBSalinas @MaangelesTc @PonchoGutz Piénselo bien Don Ricardo, a lo mejor le sirve de bufón para animar su fiesta… aunque pensándolo bien, si sus chistes son tan malos como El deforma, mejor no.",
+    "date": "Fri Jul 17 01:25:21  2020",
+    "favorites": 2730,
+    "rt": "3177"
+  },
+  {
+    "name": "meli",
+    "nameScreen": "melignlz",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1505628956959068160/hyK1uFse_normal.jpg",
+    "text": "honestamente los chistes matemáticos de andy están tan malos que me dan risa",
+    "date": "Mon Feb 10 23:23:36  2020",
+    "favorites": 2113,
+    "rt": "987"
+  },
+  {
+    "name": "k. shi",
+    "nameScreen": "cxlicocatt",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578841604735094785/Wdfe6FE5_normal.jpg",
+    "text": "@koceaneyes Voy a tener que seguir con mis chistes malos",
+    "date": "Wed Jul 27 22:04:15  2022",
+    "favorites": 1654,
+    "rt": "1278"
+  },
+  {
+    "name": "charliess 🧛‍♂️ • 🎃 • 👻",
+    "nameScreen": "thekwamisass",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576271435575738372/jcIlVebj_normal.jpg",
+    "text": "Ok, debería dejar de contar chistes malos jajajajjahq",
+    "date": "Tue Mar 16 22:48:42  2021",
+    "favorites": 10638,
+    "rt": "8818"
+  },
+  {
+    "name": "🦇Capitán Rock 🦇",
+    "nameScreen": "dannysays36",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578907863472214017/Sfp3utUU_normal.jpg",
+    "text": "@de_comala Jajajajajaja Segui forzando el chiste que                                  se nota que no tenes la chispa del humor cordobés, forzálo tanto hasta que se te rompa el frenillo, y cura las heridas con alcohol, no con tus chistes malos, porque en un bar vos, hoy, te comerías un cachetazo, con la mano bien abierta.",
+    "date": "Sat Apr 20 15:30:27  2019",
+    "favorites": 46641,
+    "rt": "87667"
+  },
+  {
+    "name": "Gearless Joe",
+    "nameScreen": "Recocar1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1561930162660319237/_2J-BVgm_normal.jpg",
+    "text": "Mi personalidad es hacer chistes malos de los que me río solo y luego mirar a la cámara imaginaria",
+    "date": "Fri May 31 05:57:22  2019",
+    "favorites": 3726,
+    "rt": "2561"
+  },
+  {
+    "name": "RS/SBX | S-tibio",
+    "nameScreen": "Stevegil007",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578410295525052416/rJwtAT7W_normal.jpg",
+    "text": "@Benjamingil007 @andy_pls Este fue un pésimo chiste, obvio fue “Malos Chistes Pls”",
+    "date": "Wed Jul 06 06:14:56  2011",
+    "favorites": 14228,
+    "rt": "12028"
+  },
+  {
+    "name": "Miguel Canales",
+    "nameScreen": "MiguelC59560236",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1561751343483834368/Dn3mvzVa_normal.jpg",
+    "text": "@jose11_gg @RicardoBSalinas @PonchoGutz Jajaja es una fiesta de cumpleaños, que weba tener que aguantar los chistes malos del teto arrastrado",
+    "date": "Thu Jun 16 23:28:00  2022",
+    "favorites": 15670,
+    "rt": "11989"
+  },
+  {
+    "name": "Luis alfonso baez",
+    "nameScreen": "Luisalfonsobae3",
+    "imgProfile": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "text": "@ghitis después del tumbe de las casa de 70 m2 a setecientos millones, y los hps periodistas prepago no dijeron no mierda y ahora haciendo chistes malos ..",
+    "date": "Tue Apr 05 03:39:24  2016",
+    "favorites": 108511,
+    "rt": "78684"
+  },
+  {
+    "name": "kiki",
+    "nameScreen": "___kikii__",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576965135599652866/ErNguK2W_normal.jpg",
+    "text": "extraño a candelita y sus chistes malos 💔",
+    "date": "Mon Oct 03 15:58:45  2022",
+    "favorites": 116,
+    "rt": "44"
+  },
+  {
+    "name": "Massiel Téllez",
+    "nameScreen": "tellez_massiel",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576786653649293313/DOpcuK26_normal.jpg",
+    "text": "De tu voz, de tus carcajadas y tus chistes malos, me estoy olvidando                   de lo segura que me sentía cuando me abrazabas o me tomabas de la mano y lo escuchada que me sentía cuando te contaba mis problemas pero creo que estarás orgullosa...",
+    "date": "Tue Oct 31 05:51:03  2017",
+    "favorites": 52,
+    "rt": "31"
+  },
+  {
+  "name": "santicasas.eth🎗" ,
+  "nameScreen": "santicasas",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1349067865283035138/xkajI2I6_normal.jpg",
+  "text": "@Anvazher @fabianplaza Mi primer ordenador fue un VIC-20 y mi primer trabajo fue de programador de Apple II...",
+  "date": "Mon Dec 29 07:55:27  2008",
+  "favorites": 39674,
+  "rt": "66153"
+},
+{
+  "name": "4Geeks Academy Latam",
+  "nameScreen": "4geeksLatam",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1545237321519349760/35y2AD7D_normal.jpg",
+  "text": "Conseguirás tu primer trabajo, empezarás a ganar dinero pero continuarás aprendiendo hasta convertirte en Senior Developer, ganar muy bien y disfrutar de la vida de un programador. #ProgramaTuHistoria Con 4Geeks Academy.",
+  "date": "Mon Aug 24 22:25:22  2020",
+  "favorites": 188,
+  "rt": "875"
+},
+{
+  "name": "Tongas💛🖤✊",
+  "nameScreen": "gastonfalco8",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1548677031122145283/nRyYmRDC_normal.jpg",
+  "text": "@piarubi @sebas166019 Mi primer trabajo,en un supermercado.Teníamos cajeros, gente atendiendo en verdulería y en los demás sectores Hoy no hay gente en verdulería y no hay cajeros, DÓNDE MIERDA SE GANAN PUESTOS DE TRABAJO??Como dijo un sorete en un comentario,pierden los cajeros,gana UN programador",
+  "date": "Mon Mar 30 01:31:39  2015",
+  "favorites": 104630,
+  "rt": "8763"
+},
+{
+  "name": "Víctor Robles WEB",
+  "nameScreen": "victorobs",
+  "imgProfile": "http://pbs.twimg.com/profile_images/714360954507669504/N3RZeyjE_normal.jpg",
+  "text": "En el video de hoy:  Te voy a enseñar cómo aprender a programar rápido y conseguir tu primer trabajo de ingeniero de software, programador o desarrollador web a tiempo completo, todo paso a paso. 🔥",
+  "date": "Sat Aug 13 14:32:50  2011",
+  "favorites": 170,
+  "rt": "12843"
+},
+{
+  "name": "Gonzalo P 🏳️❌📏✝️" ,
+  "nameScreen": "GonchiP1",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1568229930982424576/bn4l3hVG_normal.jpg",
+  "text": "@CandyCornerSL @maestra_ellen Durante mi primer trabajo como programador, un día nos tocó trabajar desde casa por una huelga de transporte (aquí le llamamos paro), como yo no tenía computadora ni internet, le pedí prestada la suya a mi madre que vivía a dos casa. Cada dos o tres horas iba a decirme que...",
+  "date": "Mon Sep 14 22:55:21  2020",
+  "favorites": 102962,
+  "rt": "48947"
+},
+{
+  "name": "Jose Antonio Martin 🇪🇸🇪🇺🌍"    ,
+  "nameScreen": "joseantonmartin",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1577378477921157127/k-QDL-QE_normal.jpg",
+  "text": "Hazte un programador de primer nivel, estas webs te dan lo que necesitas",
+  "date": "Sun Apr 26 14:49:16  2009",
+  "favorites": 46089,
+  "rt": "27835"
+},
+{
+  "name": "#nerdearla",
+  "nameScreen": "nerdearla",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1413552332911034372/9iyc6FTt_normal.jpg",
+  "text": "🧑‍💻 Del 19 al 22 de octubre vuelve #nerdearla 😍🔥 No olvides registrarte en https://nerdear.la/es",
+  "date": "Thu Nov 07 05:50:39  2013",
+  "favorites": 6659,
+  "rt": "9305",
+  "imagen":"https://pbs.twimg.com/media/Fefs_QZX0AAV47U?format=jpg&name=medium"
+  },
+  {
+    "name": "Sergio #𝔏𝔦𝔤𝔞𝔇𝔢𝔊𝔲𝔢𝔯𝔯𝔢𝔯𝔬𝔰",               
+    "nameScreen": "SergioG79300186",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548893780090159105/6reKkBgz_normal.jpg",
+    "text": "@RicardoBSalinas #tioRichie de acuerdo a su experiencia que % destinado al ahorro conviene invertirlo en #Criptomonedas?",
+    "date": "11min",
+    "favorites": "299",
+    "rt": "3135",
+    "imagen": "https://pbs.twimg.com/media/Fek_Sl3XEAIqXPu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Sergio #𝔏𝔦𝔤𝔞𝔇𝔢𝔊𝔲𝔢𝔯𝔯𝔢𝔯𝔬𝔰",               
+    "nameScreen": "SergioG79300186",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548893780090159105/6reKkBgz_normal.jpg",
+    "text": "@RicardoBSalinas #tioRichie de acuerdo a su experiencia que % destinado al ahorro conviene invertirlo en #Criptomonedas?",
+    "date": "10min",
+    "favorites": "299",
+    "rt": "3135"
+  },
+  {
+    "name": "ハモン",
+    "nameScreen": "hamon_4000",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577658348240969731/5EXuNJo0_normal.png",
+    "text": "動画4つもあげられるのか。すごいじゃん。\n#PSO2NGS #CSGO #blender https://t.co/3xxKqLh2Uw",
+    "date": "2min",
+    "favorites": 14347,
+    "rt": "917"
+  },
+  {
+    "name": "Star Geek Command (SGC)",
+    "nameScreen": "stargeek13",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1468271648721674244/nLPI8537_normal.jpg",
+    "text": "The cancellation of Halo Infinite’s split-screen co-op changes my review Business-as-usual for some modern FPSes, but MSs 2017 pledge makes this one different #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo https://t.co/PyhY3sIPw1",
+    "date": "3min",
+    "favorites": 88,
+    "rt": "23437"
+  },
+  {
+    "name": "Peu.js 👩🏼‍💻",
+    "nameScreen": "LemonPeu",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548331949176983553/Ps_R3XVV_normal.jpg",
+    "text": "Nunca los vi uno al lado del otro (son madre e hijo y ella no lo soporta) 🥺🙏",
+    "date": "Fri Apr 08 01:59:26  2011",
+    "favorites": 66506,
+    "rt": "108871",
+    "imagen": "https://pbs.twimg.com/media/FelMGhDXgAAKZeD?format=jpg&name=large"
+  },
+  {
+    "name": "Muleware",
+    "nameScreen": "muleware_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1551318816268828672/If73NhXS_normal.jpg",
+    "text": "Tweet Im playing more CSGO. Twitch . tv / muleware #CSGO #twitch #VtubersEN",
+    "date": "20min",
+    "favorites": 5619,
+    "rt": "1300"
+  },
+  {
+    "name": "Yung Mario🔋",
+    "nameScreen": "RioPickss",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1519773647124283392/kr6E1BBH_normal.jpg",
+    "text": "I added #CSGO in the #Discord 🫣 got some plays up too ",
+    "date": "10min",
+    "favorites": 3079,
+    "rt": "1611"
+  },
+  {
+  "name": "Ighmaz ◢◤",
+  "nameScreen": "ighmaz_js",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1563514405299822595/gAnmoNVu_normal.jpg",
+  "text": "JavaScript Array method cheatsheet 🔥🚀 https://t.co/CwXeAEgMbo",
+  "date": "Wed Nov 14 11:22:33  2012",
+  "favorites": 74845,
+  "rt": "5158",
+  "imagen": "https://pbs.twimg.com/media/Fei7FjNagAAeX3S?format=jpg&name=large"
+  },
+  {
+    "name": "mil0u 🦇",
+    "nameScreen": "mil0uu_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577476689436839938/zwgZu2uD_normal.jpg",
+    "text": "#CSGO https://t.co/a1OQwF8cR0",
+    "date": "30s",
+    "favorites": 14,
+    "rt": "4"
+  },
+  {
+    "name": "Open Studios",
+    "nameScreen": "OpenStudios1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1431608380003549193/2Kfz4SK7_normal.jpg",
+    "text": "The wifi cage from Amazon doesn’t work.                               #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo #blog #pubg #movies #overwatch #photography #pcgamer https://t.co/JacaGWdeTB",
+    "date": "1min",
+    "favorites": 411,
+    "rt": "50174"
+  },
+  {
+  "name": "Mauro Lorenzo マウロ",
+  "nameScreen": "Lo_Mauro",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1026984734482747392/Ft905XOp_normal.jpg",
+  "text": "Me vuelvo loco. El vestido de la derecha y el de la izquierda (en el encuadre) tienen el MISMO COLOR. https://t.co/nY2AoUZPAk",
+  "date": "Tue Mar 31 05:19:42  2009",
+  "favorites": 96827,
+  "rt": "52118",
+  "imagen": "https://pbs.twimg.com/media/FejH5BPXgAEO1ij?format=jpg&name=small"
+  },
+  {
+    "name": "javier barroso",
+    "nameScreen": "javi20deco",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1347579345582362625/eh7g1_t9_normal.jpg",
+    "text": "Me extraña. Porque a mi me dijeron que este año muy bien. Como los últimos 15 años en los que Juli, oscar, Toscano, Mariano y toda esa pesca te las vendían desde la COPE como la clave del proyecto. Unas especies de Messi. Pero la culpa es SOLO de Ortiz. https://t.co/KuiZAJDJj4",
+    "date": "10min",
+    "favorites": 7961,
+    "rt": "65341"
+  },
+  {
+    "name": "Decime Moy",
+    "nameScreen": "NumasGrijalba",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577351869554376704/5yvZvNJy_normal.jpg",
+    "text": " Mi estimado si sabe que CR7 empezó jugando en el medio campo? Mientras que Messi empezó de falso 9 y de extremo por derecha? Y aun así cristiano tiene más goles que Messi",
+    "date": "2h",
+    "favorites": 11415,
+    "rt": "2234"
+  },
+  {
+    "name": "Gonzalo Rodríguez Gacha ™",
+    "nameScreen": "ElMexicano1947",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1342173624896282625/vyRRkw0Q_normal.jpg",
+    "text": "Para Lionel #Messi debe ser un insulto que lo comparen con #CristianoRonaldo",
+    "date": "20min",
+    "favorites": 4487,
+    "rt": "1132"
+  },
+  {
+    "name": "Lyncoln",
+    "nameScreen": "Muvhitorii",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1554156413836054529/VB6BojLk_normal.jpg",
+    "text": "@tipsypee This is also proof that @ManCity has got world class players. Not everyone can play alongside &amp; flourish with superstars like Haaland, Ronaldo, Messi, Mbappe etc! Classy footballers like Benzema, Foden, Dembele et al dont sulk or begrudge but up their game when stars join them.",
+    "date": "2min",
+    "favorites": 76126,
+    "rt": "64736"
+  },
+  {
+  "name": "PadelArg",
+  "nameScreen": "PadelArg",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1378462631447629825/1y9poDTW_normal.jpg",
+  "text": "Paquito y Martín 🇦🇷 sacaron a bailar a Sanyo🇦🇷-Tapia🇦🇷 6-1/6-1, mismo resultado por el que eliminaron ayer a Stupa🇦🇷-Lima. Definirán el título de Santander, en su despedida, contra Bela🇦🇷-Coello.",
+  "date": "Thu Mar 25 20:08:14  2021",
+  "favorites": 309,
+  "rt": "1417",
+  "imagen": "https://pbs.twimg.com/media/FekT5RBWQAMHVMJ?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Jochen H",
+    "nameScreen": "JochenHh",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1093039296632709120/fegQV5dh_normal.jpg",
+    "text": "@dimepepe0 La liga que... El arbitraje...Ademas no Messi no party.",
+    "date": "12h",
+    "favorites": 10284,
+    "rt": "6289"
+  },
+  {
+    "name": "Messimagic",
+    "nameScreen": "Tamilcinemalov1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1533648472226017280/Pg-nWons_normal.jpg",
+    "text": "@breathMessi21 Blissful sleep yesterday😂 messi should take rest in league games more often",
+    "date": "10h",
+    "favorites": 7655,
+    "rt": "1951"
+  },
+  {
+    "name": "めっし",
+    "nameScreen": "messi_iid",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1553995369691762694/h1ui66pS_normal.jpg",
+    "text": "@FZlycueUmQtjcvY 終盤は24時間以内に「バウンティトナメで優勝」とか難題言われますw 無料でできるならいいですね JOPTもオンラインイベント復活してるのでぜひぜひやりましょー！",
+    "date": "16min",
+    "favorites": 1859,
+    "rt": "1690"
+  },
+  {
+    "name": "BARÇALEO",
+    "nameScreen": "adal_zora",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1567282662112481285/hYho7dnh_normal.jpg",
+    "text": "@Joshua_Ubeku You can’t expect another answer from Cristiano. Messi would never have done it.",
+    "date": "10min",
+    "favorites": 3083,
+    "rt": "4537"
+  },
+  {
+  "name": "HLTV.org",
+  "nameScreen": "HLTVorg",
+  "imgProfile": "http://pbs.twimg.com/profile_images/766575292441845760/ySDr_slD_normal.jpg",
+  "text": "More than just a game 😢#IEM",
+  "date": "Thu Jul 09 22:37:28  2009",
+  "favorites": 595,
+  "rt": "63109",
+  "imagen": "https://pbs.twimg.com/media/Fek_Sl3XEAIqXPu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "🇲🇨 chris 🇲🇨 Monaco 🇲🇨",
+    "nameScreen": "hollybynight11",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1570200623601139715/jrO6rq4D_normal.jpg",
+    "text": "Paris cette saison sans Neymar et Messi… c’est pas terrible.",
+    "date": "8h",
+    "favorites": 2029,
+    "rt": "70345"
+  },
+  {
+    "name": "Im okey💜",
+    "nameScreen": "AmbrosineDionne",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1568069100017942529/lxAt76s3_normal.jpg",
+    "text": "@sehnippoppo Yo no lo leo, solo tengo la representación visual del nombre. Veo el texto junto y mi mente en automático Byeongkwan",
+    "date": "Fri Jan 29 02:13:34  2016",
+    "favorites": 38121,
+    "rt": "3662"
+  },
+  {
+    "name": "Marta Hortelano 🪆" ,
+    "nameScreen": "MartaHortelano",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1447255201962921985/1ScfgZtc_normal.jpg",
+    "text": "Lo más importante de las entrevistas es que el entrevistado se preste. Que entre a la conversación. Cuando eso sucede, el texto se lee solo. #9dOctubre #diadelacomunitatvalenciana ",
+    "date": "Wed Sep 01 09:57:55  2010",
+    "favorites": 3720,
+    "rt": "31670"
+  },
+  {
+    "name": "Aurora Inversora",
+    "nameScreen": "AurorAforismo",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1493146630274658305/o4NGfE1R_normal.jpg",
+    "text": "@nacidoatleti @buscandoameg Las imagenes están bien porque puedes ver las cosas tú mismo. Imagínate tener que informarse solo por el texto de ese @REjercitos . A la vez dice que seguramente sea una ataque de falsa bandera de Rusia que comparte memes de Zelenski diciendo Feliz Cumpleaños Putin🤮🤮",
+    "date": "Mon Feb 14 08:54:16  2022",
+    "favorites": 247,
+    "rt": "241"
+  },
+  {
+    "name": "María 🇪🇺🇺🇦"    ,
+    "nameScreen": "garciaespino7",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1512756815347519497/Uo1KJrx9_normal.jpg",
+    "text": "@_Silvivale Pues yo he visto a mucha gente escribir así. En mecanografía no aprendes sólo velocidad, también la forma correcta de colocar un texto con sus puntos, sus comas y sus espacios.",
+    "date": "Sat May 02 21:42:54  2015",
+    "favorites": 37282,
+    "rt": "26155"
+  },
+  {
+    "name": "A ɴ D R ó M ᴇ D ᴀ ♥️",
+    "nameScreen": "Anddromedda_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1517599172698034182/C9Rmuq74_normal.jpg",
+    "text": "Pues yo me estoy meando de sólo pensar en el tiempo que ha perdido escribiendo este texto de mierda y buscando fotos, vídeos y haciendo capturas 😂😂😂😂😂 https://t.co/sJL1m2ZGGJ",
+    "date": "Fri Jul 30 05:20:02  2021",
+    "favorites": 9766,
+    "rt": "1950"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "La materia no se crea ni se destruye, solo se transforma al igual que el amor.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "Si vas a aferrarte, procura que sea solo a tus metas y sueños, no a personas.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "Carlos Gonzalez",
+    "nameScreen": "carlitroz6969",
+    "imgProfile": "http://pbs.twimg.com/profile_images/477816871794663424/S04bfahV_normal.jpeg",
+    "text": "@MariaGu39714365 Ese texto ya lo había leído hace días, solo copiar y pegar, hasta huevones son",
+    "date": "Fri Apr 29 16:21:22  2011",
+    "favorites": 26348,
+    "rt": "12560"
+  },
+  {
+    "name": "Eevee Hyuuga",
+    "nameScreen": "EeveeHyuuga",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1505284018891276292/KLALP0NA_normal.jpg",
+    "text": "Otro evento web disponible~ es solo texto y un pequeño minijuego para 40 protos y algunos materialesGenshinImpact #Genshin",
+    "date": "Sat Mar 19 20:25:39  2022",
+    "favorites": 5,
+    "rt": "28"
+  },
+  {
+    "name": "rip jann",
+    "nameScreen": "1horndemon",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1563101505816772608/sZhTPjnt_normal.jpg",
+    "text": "hoy por primera vez hablé con mi amigo gringo por chat d voz después de 4 meses de jugar hablando solo por texto, pero lo que el no sabe es que en realidad no es mi amigo, si no una ayuda para mejorar mi inglés https://t.co/Bn14FahyQO",
+    "date": "Tue Apr 13 16:58:30  2021",
+    "favorites": 6731,
+    "rt": "4931"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "Solo la vida vivida para los demás es aquella que merece la pena.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "bot el deconstructor",
+    "nameScreen": "gwy_net_bot",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1402764592758013953/UEOz85uJ_normal.jpg",
+    "text": "el texto sufre sólo palabras del charco de agua",
+    "date": "Mon May 17 06:40:45  2021",
+    "favorites": 26,
+    "rt": "69823"
+  },
+  {
+    "name": "Blitegames",
+    "nameScreen": "blitegames",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1538152776986935298/zleWQWs4_normal.jpg",
+    "text": "Una gran aventura de texto iniciada por creadores anónimos hace 40 años solo se completó este año. #PC #año #anónimos #años #aventura #completo #creadores #este #Gran #hace #iniciada #por #solo #texto ",
+    "date": "Sun Oct 26 21:07:19  2014",
+    "favorites": 36,
+    "rt": "7030"
+  },
+  {
+  "name": "Antoinette lattouf",
+  "nameScreen": "AnToninI2817",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1547753237234663426/fzg5Eofq_normal.jpg",
+  "text": "Lo único q tengo para ofrecer son chistes malos",
+  "date": "Fri Jul 15 01:20:49  2022",
+  "favorites": 20,
+  "rt": "156"
+  },
+  {
+    "name": "Kraso",
+    "nameScreen": "Kraso65262139",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1573207404157747205/h3eZC2FB_normal.jpg",
+    "text": "@Javi19704 Me caes de pm gaitano,llamas a las cosas por su nombre y tus chistes malos me gustan.",
+    "date": "Sun Feb 13 21:59:47  2022",
+    "favorites": 941,
+    "rt": "1835"
+  },
+  {
+    "name": "𝘾𝙔𝙉𝙊."    ,
+    "nameScreen": "chistesdecyno",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578913914124918789/UKOgtCjz_normal.jpg",
+    "text": "Buena noche, sueñen con chistes malos.",
+    "date": "Sat Sep 10 23:49:18  2022",
+    "favorites": 101,
+    "rt": "130"
+  },
+  {
+    "name": "MOFO JOJO",
+    "nameScreen": "HorNicanor",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1521228252630638593/zKu_Cd9P_normal.jpg",
+    "text": "@RicardoBSalinas @MaangelesTc @PonchoGutz Piénselo bien Don Ricardo, a lo mejor le sirve de bufón para animar su fiesta… aunque pensándolo bien, si sus chistes son tan malos como El deforma, mejor no.",
+    "date": "Fri Jul 17 01:25:21  2020",
+    "favorites": 2730,
+    "rt": "3177"
+  },
+  {
+    "name": "meli",
+    "nameScreen": "melignlz",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1505628956959068160/hyK1uFse_normal.jpg",
+    "text": "honestamente los chistes matemáticos de andy están tan malos que me dan risa",
+    "date": "Mon Feb 10 23:23:36  2020",
+    "favorites": 2113,
+    "rt": "987"
+  },
+  {
+    "name": "k. shi",
+    "nameScreen": "cxlicocatt",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578841604735094785/Wdfe6FE5_normal.jpg",
+    "text": "@koceaneyes Voy a tener que seguir con mis chistes malos",
+    "date": "Wed Jul 27 22:04:15  2022",
+    "favorites": 1654,
+    "rt": "1278"
+  },
+  {
+    "name": "charliess 🧛‍♂️ • 🎃 • 👻",
+    "nameScreen": "thekwamisass",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576271435575738372/jcIlVebj_normal.jpg",
+    "text": "Ok, debería dejar de contar chistes malos jajajajjahq",
+    "date": "Tue Mar 16 22:48:42  2021",
+    "favorites": 10638,
+    "rt": "8818"
+  },
+  {
+    "name": "🦇Capitán Rock 🦇",
+    "nameScreen": "dannysays36",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578907863472214017/Sfp3utUU_normal.jpg",
+    "text": "@de_comala Jajajajajaja Segui forzando el chiste que                                  se nota que no tenes la chispa del humor cordobés, forzálo tanto hasta que se te rompa el frenillo, y cura las heridas con alcohol, no con tus chistes malos, porque en un bar vos, hoy, te comerías un cachetazo, con la mano bien abierta.",
+    "date": "Sat Apr 20 15:30:27  2019",
+    "favorites": 46641,
+    "rt": "87667"
+  },
+  {
+    "name": "Gearless Joe",
+    "nameScreen": "Recocar1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1561930162660319237/_2J-BVgm_normal.jpg",
+    "text": "Mi personalidad es hacer chistes malos de los que me río solo y luego mirar a la cámara imaginaria",
+    "date": "Fri May 31 05:57:22  2019",
+    "favorites": 3726,
+    "rt": "2561"
+  },
+  {
+    "name": "RS/SBX | S-tibio",
+    "nameScreen": "Stevegil007",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578410295525052416/rJwtAT7W_normal.jpg",
+    "text": "@Benjamingil007 @andy_pls Este fue un pésimo chiste, obvio fue “Malos Chistes Pls”",
+    "date": "Wed Jul 06 06:14:56  2011",
+    "favorites": 14228,
+    "rt": "12028"
+  },
+  {
+    "name": "Miguel Canales",
+    "nameScreen": "MiguelC59560236",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1561751343483834368/Dn3mvzVa_normal.jpg",
+    "text": "@jose11_gg @RicardoBSalinas @PonchoGutz Jajaja es una fiesta de cumpleaños, que weba tener que aguantar los chistes malos del teto arrastrado",
+    "date": "Thu Jun 16 23:28:00  2022",
+    "favorites": 15670,
+    "rt": "11989"
+  },
+  {
+    "name": "Luis alfonso baez",
+    "nameScreen": "Luisalfonsobae3",
+    "imgProfile": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "text": "@ghitis después del tumbe de las casa de 70 m2 a setecientos millones, y los hps periodistas prepago no dijeron no mierda y ahora haciendo chistes malos ..",
+    "date": "Tue Apr 05 03:39:24  2016",
+    "favorites": 108511,
+    "rt": "78684"
+  },
+  {
+    "name": "kiki",
+    "nameScreen": "___kikii__",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576965135599652866/ErNguK2W_normal.jpg",
+    "text": "extraño a candelita y sus chistes malos 💔",
+    "date": "Mon Oct 03 15:58:45  2022",
+    "favorites": 116,
+    "rt": "44"
+  },
+  {
+    "name": "Massiel Téllez",
+    "nameScreen": "tellez_massiel",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576786653649293313/DOpcuK26_normal.jpg",
+    "text": "De tu voz, de tus carcajadas y tus chistes malos, me estoy olvidando                   de lo segura que me sentía cuando me abrazabas o me tomabas de la mano y lo escuchada que me sentía cuando te contaba mis problemas pero creo que estarás orgullosa...",
+    "date": "Tue Oct 31 05:51:03  2017",
+    "favorites": 52,
+    "rt": "31"
+  },
+  {
+  "name": "santicasas.eth🎗" ,
+  "nameScreen": "santicasas",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1349067865283035138/xkajI2I6_normal.jpg",
+  "text": "@Anvazher @fabianplaza Mi primer ordenador fue un VIC-20 y mi primer trabajo fue de programador de Apple II...",
+  "date": "Mon Dec 29 07:55:27  2008",
+  "favorites": 39674,
+  "rt": "66153"
+},
+{
+  "name": "4Geeks Academy Latam",
+  "nameScreen": "4geeksLatam",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1545237321519349760/35y2AD7D_normal.jpg",
+  "text": "Conseguirás tu primer trabajo, empezarás a ganar dinero pero continuarás aprendiendo hasta convertirte en Senior Developer, ganar muy bien y disfrutar de la vida de un programador. #ProgramaTuHistoria Con 4Geeks Academy.",
+  "date": "Mon Aug 24 22:25:22  2020",
+  "favorites": 188,
+  "rt": "875"
+},
+{
+  "name": "Tongas💛🖤✊",
+  "nameScreen": "gastonfalco8",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1548677031122145283/nRyYmRDC_normal.jpg",
+  "text": "@piarubi @sebas166019 Mi primer trabajo,en un supermercado.Teníamos cajeros, gente atendiendo en verdulería y en los demás sectores Hoy no hay gente en verdulería y no hay cajeros, DÓNDE MIERDA SE GANAN PUESTOS DE TRABAJO??Como dijo un sorete en un comentario,pierden los cajeros,gana UN programador",
+  "date": "Mon Mar 30 01:31:39  2015",
+  "favorites": 104630,
+  "rt": "8763"
+},
+{
+  "name": "Víctor Robles WEB",
+  "nameScreen": "victorobs",
+  "imgProfile": "http://pbs.twimg.com/profile_images/714360954507669504/N3RZeyjE_normal.jpg",
+  "text": "En el video de hoy:  Te voy a enseñar cómo aprender a programar rápido y conseguir tu primer trabajo de ingeniero de software, programador o desarrollador web a tiempo completo, todo paso a paso. 🔥",
+  "date": "Sat Aug 13 14:32:50  2011",
+  "favorites": 170,
+  "rt": "12843"
+},
+{
+  "name": "Gonzalo P 🏳️❌📏✝️" ,
+  "nameScreen": "GonchiP1",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1568229930982424576/bn4l3hVG_normal.jpg",
+  "text": "@CandyCornerSL @maestra_ellen Durante mi primer trabajo como programador, un día nos tocó trabajar desde casa por una huelga de transporte (aquí le llamamos paro), como yo no tenía computadora ni internet, le pedí prestada la suya a mi madre que vivía a dos casa. Cada dos o tres horas iba a decirme que...",
+  "date": "Mon Sep 14 22:55:21  2020",
+  "favorites": 102962,
+  "rt": "48947"
+},
+{
+  "name": "Jose Antonio Martin 🇪🇸🇪🇺🌍"    ,
+  "nameScreen": "joseantonmartin",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1577378477921157127/k-QDL-QE_normal.jpg",
+  "text": "Hazte un programador de primer nivel, estas webs te dan lo que necesitas",
+  "date": "Sun Apr 26 14:49:16  2009",
+  "favorites": 46089,
+  "rt": "27835"
+},
+{
+  "name": "#nerdearla",
+  "nameScreen": "nerdearla",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1413552332911034372/9iyc6FTt_normal.jpg",
+  "text": "🧑‍💻 Del 19 al 22 de octubre vuelve #nerdearla 😍🔥 No olvides registrarte en https://nerdear.la/es",
+  "date": "Thu Nov 07 05:50:39  2013",
+  "favorites": 6659,
+  "rt": "9305",
+  "imagen":"https://pbs.twimg.com/media/Fefs_QZX0AAV47U?format=jpg&name=medium"
+  },
+  {
+    "name": "Sergio #𝔏𝔦𝔤𝔞𝔇𝔢𝔊𝔲𝔢𝔯𝔯𝔢𝔯𝔬𝔰",               
+    "nameScreen": "SergioG79300186",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548893780090159105/6reKkBgz_normal.jpg",
+    "text": "@RicardoBSalinas #tioRichie de acuerdo a su experiencia que % destinado al ahorro conviene invertirlo en #Criptomonedas?",
+    "date": "11min",
+    "favorites": "299",
+    "rt": "3135",
+    "imagen": "https://pbs.twimg.com/media/Fek_Sl3XEAIqXPu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Sergio #𝔏𝔦𝔤𝔞𝔇𝔢𝔊𝔲𝔢𝔯𝔯𝔢𝔯𝔬𝔰",               
+    "nameScreen": "SergioG79300186",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548893780090159105/6reKkBgz_normal.jpg",
+    "text": "@RicardoBSalinas #tioRichie de acuerdo a su experiencia que % destinado al ahorro conviene invertirlo en #Criptomonedas?",
+    "date": "10min",
+    "favorites": "299",
+    "rt": "3135"
+  },
+  {
+    "name": "ハモン",
+    "nameScreen": "hamon_4000",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577658348240969731/5EXuNJo0_normal.png",
+    "text": "動画4つもあげられるのか。すごいじゃん。\n#PSO2NGS #CSGO #blender https://t.co/3xxKqLh2Uw",
+    "date": "2min",
+    "favorites": 14347,
+    "rt": "917"
+  },
+  {
+    "name": "Star Geek Command (SGC)",
+    "nameScreen": "stargeek13",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1468271648721674244/nLPI8537_normal.jpg",
+    "text": "The cancellation of Halo Infinite’s split-screen co-op changes my review Business-as-usual for some modern FPSes, but MSs 2017 pledge makes this one different #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo https://t.co/PyhY3sIPw1",
+    "date": "3min",
+    "favorites": 88,
+    "rt": "23437"
+  },
+  {
+    "name": "Peu.js 👩🏼‍💻",
+    "nameScreen": "LemonPeu",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548331949176983553/Ps_R3XVV_normal.jpg",
+    "text": "Nunca los vi uno al lado del otro (son madre e hijo y ella no lo soporta) 🥺🙏",
+    "date": "Fri Apr 08 01:59:26  2011",
+    "favorites": 66506,
+    "rt": "108871",
+    "imagen": "https://pbs.twimg.com/media/FelMGhDXgAAKZeD?format=jpg&name=large"
+  },
+  {
+    "name": "Muleware",
+    "nameScreen": "muleware_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1551318816268828672/If73NhXS_normal.jpg",
+    "text": "Tweet Im playing more CSGO. Twitch . tv / muleware #CSGO #twitch #VtubersEN",
+    "date": "20min",
+    "favorites": 5619,
+    "rt": "1300"
+  },
+  {
+    "name": "Yung Mario🔋",
+    "nameScreen": "RioPickss",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1519773647124283392/kr6E1BBH_normal.jpg",
+    "text": "I added #CSGO in the #Discord 🫣 got some plays up too ",
+    "date": "10min",
+    "favorites": 3079,
+    "rt": "1611"
+  },
+  {
+  "name": "Ighmaz ◢◤",
+  "nameScreen": "ighmaz_js",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1563514405299822595/gAnmoNVu_normal.jpg",
+  "text": "JavaScript Array method cheatsheet 🔥🚀 https://t.co/CwXeAEgMbo",
+  "date": "Wed Nov 14 11:22:33  2012",
+  "favorites": 74845,
+  "rt": "5158",
+  "imagen": "https://pbs.twimg.com/media/Fei7FjNagAAeX3S?format=jpg&name=large"
+  },
+  {
+    "name": "mil0u 🦇",
+    "nameScreen": "mil0uu_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577476689436839938/zwgZu2uD_normal.jpg",
+    "text": "#CSGO https://t.co/a1OQwF8cR0",
+    "date": "30s",
+    "favorites": 14,
+    "rt": "4"
+  },
+  {
+    "name": "Open Studios",
+    "nameScreen": "OpenStudios1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1431608380003549193/2Kfz4SK7_normal.jpg",
+    "text": "The wifi cage from Amazon doesn’t work.                               #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo #blog #pubg #movies #overwatch #photography #pcgamer https://t.co/JacaGWdeTB",
+    "date": "1min",
+    "favorites": 411,
+    "rt": "50174"
+  },
+  {
+  "name": "Mauro Lorenzo マウロ",
+  "nameScreen": "Lo_Mauro",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1026984734482747392/Ft905XOp_normal.jpg",
+  "text": "Me vuelvo loco. El vestido de la derecha y el de la izquierda (en el encuadre) tienen el MISMO COLOR. https://t.co/nY2AoUZPAk",
+  "date": "Tue Mar 31 05:19:42  2009",
+  "favorites": 96827,
+  "rt": "52118",
+  "imagen": "https://pbs.twimg.com/media/FejH5BPXgAEO1ij?format=jpg&name=small"
+  },
+  {
+    "name": "javier barroso",
+    "nameScreen": "javi20deco",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1347579345582362625/eh7g1_t9_normal.jpg",
+    "text": "Me extraña. Porque a mi me dijeron que este año muy bien. Como los últimos 15 años en los que Juli, oscar, Toscano, Mariano y toda esa pesca te las vendían desde la COPE como la clave del proyecto. Unas especies de Messi. Pero la culpa es SOLO de Ortiz. https://t.co/KuiZAJDJj4",
+    "date": "10min",
+    "favorites": 7961,
+    "rt": "65341"
+  },
+  {
+    "name": "Decime Moy",
+    "nameScreen": "NumasGrijalba",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577351869554376704/5yvZvNJy_normal.jpg",
+    "text": " Mi estimado si sabe que CR7 empezó jugando en el medio campo? Mientras que Messi empezó de falso 9 y de extremo por derecha? Y aun así cristiano tiene más goles que Messi",
+    "date": "2h",
+    "favorites": 11415,
+    "rt": "2234"
+  },
+  {
+    "name": "Gonzalo Rodríguez Gacha ™",
+    "nameScreen": "ElMexicano1947",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1342173624896282625/vyRRkw0Q_normal.jpg",
+    "text": "Para Lionel #Messi debe ser un insulto que lo comparen con #CristianoRonaldo",
+    "date": "20min",
+    "favorites": 4487,
+    "rt": "1132"
+  },
+  {
+    "name": "Lyncoln",
+    "nameScreen": "Muvhitorii",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1554156413836054529/VB6BojLk_normal.jpg",
+    "text": "@tipsypee This is also proof that @ManCity has got world class players. Not everyone can play alongside &amp; flourish with superstars like Haaland, Ronaldo, Messi, Mbappe etc! Classy footballers like Benzema, Foden, Dembele et al dont sulk or begrudge but up their game when stars join them.",
+    "date": "2min",
+    "favorites": 76126,
+    "rt": "64736"
+  },
+  {
+  "name": "PadelArg",
+  "nameScreen": "PadelArg",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1378462631447629825/1y9poDTW_normal.jpg",
+  "text": "Paquito y Martín 🇦🇷 sacaron a bailar a Sanyo🇦🇷-Tapia🇦🇷 6-1/6-1, mismo resultado por el que eliminaron ayer a Stupa🇦🇷-Lima. Definirán el título de Santander, en su despedida, contra Bela🇦🇷-Coello.",
+  "date": "Thu Mar 25 20:08:14  2021",
+  "favorites": 309,
+  "rt": "1417",
+  "imagen": "https://pbs.twimg.com/media/FekT5RBWQAMHVMJ?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Jochen H",
+    "nameScreen": "JochenHh",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1093039296632709120/fegQV5dh_normal.jpg",
+    "text": "@dimepepe0 La liga que... El arbitraje...Ademas no Messi no party.",
+    "date": "12h",
+    "favorites": 10284,
+    "rt": "6289"
+  },
+  {
+    "name": "Messimagic",
+    "nameScreen": "Tamilcinemalov1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1533648472226017280/Pg-nWons_normal.jpg",
+    "text": "@breathMessi21 Blissful sleep yesterday😂 messi should take rest in league games more often",
+    "date": "10h",
+    "favorites": 7655,
+    "rt": "1951"
+  },
+  {
+    "name": "めっし",
+    "nameScreen": "messi_iid",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1553995369691762694/h1ui66pS_normal.jpg",
+    "text": "@FZlycueUmQtjcvY 終盤は24時間以内に「バウンティトナメで優勝」とか難題言われますw 無料でできるならいいですね JOPTもオンラインイベント復活してるのでぜひぜひやりましょー！",
+    "date": "16min",
+    "favorites": 1859,
+    "rt": "1690"
+  },
+  {
+    "name": "BARÇALEO",
+    "nameScreen": "adal_zora",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1567282662112481285/hYho7dnh_normal.jpg",
+    "text": "@Joshua_Ubeku You can’t expect another answer from Cristiano. Messi would never have done it.",
+    "date": "10min",
+    "favorites": 3083,
+    "rt": "4537"
+  },
+  {
+  "name": "HLTV.org",
+  "nameScreen": "HLTVorg",
+  "imgProfile": "http://pbs.twimg.com/profile_images/766575292441845760/ySDr_slD_normal.jpg",
+  "text": "More than just a game 😢#IEM",
+  "date": "Thu Jul 09 22:37:28  2009",
+  "favorites": 595,
+  "rt": "63109",
+  "imagen": "https://pbs.twimg.com/media/Fek_Sl3XEAIqXPu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "🇲🇨 chris 🇲🇨 Monaco 🇲🇨",
+    "nameScreen": "hollybynight11",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1570200623601139715/jrO6rq4D_normal.jpg",
+    "text": "Paris cette saison sans Neymar et Messi… c’est pas terrible.",
+    "date": "8h",
+    "favorites": 2029,
+    "rt": "70345"
+  },
+  {
+    "name": "Im okey💜",
+    "nameScreen": "AmbrosineDionne",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1568069100017942529/lxAt76s3_normal.jpg",
+    "text": "@sehnippoppo Yo no lo leo, solo tengo la representación visual del nombre. Veo el texto junto y mi mente en automático Byeongkwan",
+    "date": "Fri Jan 29 02:13:34  2016",
+    "favorites": 38121,
+    "rt": "3662"
+  },
+  {
+    "name": "Marta Hortelano 🪆" ,
+    "nameScreen": "MartaHortelano",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1447255201962921985/1ScfgZtc_normal.jpg",
+    "text": "Lo más importante de las entrevistas es que el entrevistado se preste. Que entre a la conversación. Cuando eso sucede, el texto se lee solo. #9dOctubre #diadelacomunitatvalenciana ",
+    "date": "Wed Sep 01 09:57:55  2010",
+    "favorites": 3720,
+    "rt": "31670"
+  },
+  {
+    "name": "Aurora Inversora",
+    "nameScreen": "AurorAforismo",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1493146630274658305/o4NGfE1R_normal.jpg",
+    "text": "@nacidoatleti @buscandoameg Las imagenes están bien porque puedes ver las cosas tú mismo. Imagínate tener que informarse solo por el texto de ese @REjercitos . A la vez dice que seguramente sea una ataque de falsa bandera de Rusia que comparte memes de Zelenski diciendo Feliz Cumpleaños Putin🤮🤮",
+    "date": "Mon Feb 14 08:54:16  2022",
+    "favorites": 247,
+    "rt": "241"
+  },
+  {
+    "name": "María 🇪🇺🇺🇦"    ,
+    "nameScreen": "garciaespino7",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1512756815347519497/Uo1KJrx9_normal.jpg",
+    "text": "@_Silvivale Pues yo he visto a mucha gente escribir así. En mecanografía no aprendes sólo velocidad, también la forma correcta de colocar un texto con sus puntos, sus comas y sus espacios.",
+    "date": "Sat May 02 21:42:54  2015",
+    "favorites": 37282,
+    "rt": "26155"
+  },
+  {
+    "name": "A ɴ D R ó M ᴇ D ᴀ ♥️",
+    "nameScreen": "Anddromedda_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1517599172698034182/C9Rmuq74_normal.jpg",
+    "text": "Pues yo me estoy meando de sólo pensar en el tiempo que ha perdido escribiendo este texto de mierda y buscando fotos, vídeos y haciendo capturas 😂😂😂😂😂 https://t.co/sJL1m2ZGGJ",
+    "date": "Fri Jul 30 05:20:02  2021",
+    "favorites": 9766,
+    "rt": "1950"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "La materia no se crea ni se destruye, solo se transforma al igual que el amor.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "Si vas a aferrarte, procura que sea solo a tus metas y sueños, no a personas.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "Carlos Gonzalez",
+    "nameScreen": "carlitroz6969",
+    "imgProfile": "http://pbs.twimg.com/profile_images/477816871794663424/S04bfahV_normal.jpeg",
+    "text": "@MariaGu39714365 Ese texto ya lo había leído hace días, solo copiar y pegar, hasta huevones son",
+    "date": "Fri Apr 29 16:21:22  2011",
+    "favorites": 26348,
+    "rt": "12560"
+  },
+  {
+    "name": "Eevee Hyuuga",
+    "nameScreen": "EeveeHyuuga",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1505284018891276292/KLALP0NA_normal.jpg",
+    "text": "Otro evento web disponible~ es solo texto y un pequeño minijuego para 40 protos y algunos materialesGenshinImpact #Genshin",
+    "date": "Sat Mar 19 20:25:39  2022",
+    "favorites": 5,
+    "rt": "28"
+  },
+  {
+    "name": "rip jann",
+    "nameScreen": "1horndemon",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1563101505816772608/sZhTPjnt_normal.jpg",
+    "text": "hoy por primera vez hablé con mi amigo gringo por chat d voz después de 4 meses de jugar hablando solo por texto, pero lo que el no sabe es que en realidad no es mi amigo, si no una ayuda para mejorar mi inglés https://t.co/Bn14FahyQO",
+    "date": "Tue Apr 13 16:58:30  2021",
+    "favorites": 6731,
+    "rt": "4931"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "Solo la vida vivida para los demás es aquella que merece la pena.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "bot el deconstructor",
+    "nameScreen": "gwy_net_bot",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1402764592758013953/UEOz85uJ_normal.jpg",
+    "text": "el texto sufre sólo palabras del charco de agua",
+    "date": "Mon May 17 06:40:45  2021",
+    "favorites": 26,
+    "rt": "69823"
+  },
+  {
+    "name": "Blitegames",
+    "nameScreen": "blitegames",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1538152776986935298/zleWQWs4_normal.jpg",
+    "text": "Una gran aventura de texto iniciada por creadores anónimos hace 40 años solo se completó este año. #PC #año #anónimos #años #aventura #completo #creadores #este #Gran #hace #iniciada #por #solo #texto ",
+    "date": "Sun Oct 26 21:07:19  2014",
+    "favorites": 36,
+    "rt": "7030"
+  },
+  {
+  "name": "Antoinette lattouf",
+  "nameScreen": "AnToninI2817",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1547753237234663426/fzg5Eofq_normal.jpg",
+  "text": "Lo único q tengo para ofrecer son chistes malos",
+  "date": "Fri Jul 15 01:20:49  2022",
+  "favorites": 20,
+  "rt": "156"
+  },
+  {
+    "name": "Kraso",
+    "nameScreen": "Kraso65262139",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1573207404157747205/h3eZC2FB_normal.jpg",
+    "text": "@Javi19704 Me caes de pm gaitano,llamas a las cosas por su nombre y tus chistes malos me gustan.",
+    "date": "Sun Feb 13 21:59:47  2022",
+    "favorites": 941,
+    "rt": "1835"
+  },
+  {
+    "name": "𝘾𝙔𝙉𝙊."    ,
+    "nameScreen": "chistesdecyno",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578913914124918789/UKOgtCjz_normal.jpg",
+    "text": "Buena noche, sueñen con chistes malos.",
+    "date": "Sat Sep 10 23:49:18  2022",
+    "favorites": 101,
+    "rt": "130"
+  },
+  {
+    "name": "MOFO JOJO",
+    "nameScreen": "HorNicanor",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1521228252630638593/zKu_Cd9P_normal.jpg",
+    "text": "@RicardoBSalinas @MaangelesTc @PonchoGutz Piénselo bien Don Ricardo, a lo mejor le sirve de bufón para animar su fiesta… aunque pensándolo bien, si sus chistes son tan malos como El deforma, mejor no.",
+    "date": "Fri Jul 17 01:25:21  2020",
+    "favorites": 2730,
+    "rt": "3177"
+  },
+  {
+    "name": "meli",
+    "nameScreen": "melignlz",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1505628956959068160/hyK1uFse_normal.jpg",
+    "text": "honestamente los chistes matemáticos de andy están tan malos que me dan risa",
+    "date": "Mon Feb 10 23:23:36  2020",
+    "favorites": 2113,
+    "rt": "987"
+  },
+  {
+    "name": "k. shi",
+    "nameScreen": "cxlicocatt",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578841604735094785/Wdfe6FE5_normal.jpg",
+    "text": "@koceaneyes Voy a tener que seguir con mis chistes malos",
+    "date": "Wed Jul 27 22:04:15  2022",
+    "favorites": 1654,
+    "rt": "1278"
+  },
+  {
+    "name": "charliess 🧛‍♂️ • 🎃 • 👻",
+    "nameScreen": "thekwamisass",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576271435575738372/jcIlVebj_normal.jpg",
+    "text": "Ok, debería dejar de contar chistes malos jajajajjahq",
+    "date": "Tue Mar 16 22:48:42  2021",
+    "favorites": 10638,
+    "rt": "8818"
+  },
+  {
+    "name": "🦇Capitán Rock 🦇",
+    "nameScreen": "dannysays36",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578907863472214017/Sfp3utUU_normal.jpg",
+    "text": "@de_comala Jajajajajaja Segui forzando el chiste que                                  se nota que no tenes la chispa del humor cordobés, forzálo tanto hasta que se te rompa el frenillo, y cura las heridas con alcohol, no con tus chistes malos, porque en un bar vos, hoy, te comerías un cachetazo, con la mano bien abierta.",
+    "date": "Sat Apr 20 15:30:27  2019",
+    "favorites": 46641,
+    "rt": "87667"
+  },
+  {
+    "name": "Gearless Joe",
+    "nameScreen": "Recocar1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1561930162660319237/_2J-BVgm_normal.jpg",
+    "text": "Mi personalidad es hacer chistes malos de los que me río solo y luego mirar a la cámara imaginaria",
+    "date": "Fri May 31 05:57:22  2019",
+    "favorites": 3726,
+    "rt": "2561"
+  },
+  {
+    "name": "RS/SBX | S-tibio",
+    "nameScreen": "Stevegil007",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578410295525052416/rJwtAT7W_normal.jpg",
+    "text": "@Benjamingil007 @andy_pls Este fue un pésimo chiste, obvio fue “Malos Chistes Pls”",
+    "date": "Wed Jul 06 06:14:56  2011",
+    "favorites": 14228,
+    "rt": "12028"
+  },
+  {
+    "name": "Miguel Canales",
+    "nameScreen": "MiguelC59560236",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1561751343483834368/Dn3mvzVa_normal.jpg",
+    "text": "@jose11_gg @RicardoBSalinas @PonchoGutz Jajaja es una fiesta de cumpleaños, que weba tener que aguantar los chistes malos del teto arrastrado",
+    "date": "Thu Jun 16 23:28:00  2022",
+    "favorites": 15670,
+    "rt": "11989"
+  },
+  {
+    "name": "Luis alfonso baez",
+    "nameScreen": "Luisalfonsobae3",
+    "imgProfile": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "text": "@ghitis después del tumbe de las casa de 70 m2 a setecientos millones, y los hps periodistas prepago no dijeron no mierda y ahora haciendo chistes malos ..",
+    "date": "Tue Apr 05 03:39:24  2016",
+    "favorites": 108511,
+    "rt": "78684"
+  },
+  {
+    "name": "kiki",
+    "nameScreen": "___kikii__",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576965135599652866/ErNguK2W_normal.jpg",
+    "text": "extraño a candelita y sus chistes malos 💔",
+    "date": "Mon Oct 03 15:58:45  2022",
+    "favorites": 116,
+    "rt": "44"
+  },
+  {
+    "name": "Massiel Téllez",
+    "nameScreen": "tellez_massiel",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576786653649293313/DOpcuK26_normal.jpg",
+    "text": "De tu voz, de tus carcajadas y tus chistes malos, me estoy olvidando                   de lo segura que me sentía cuando me abrazabas o me tomabas de la mano y lo escuchada que me sentía cuando te contaba mis problemas pero creo que estarás orgullosa...",
+    "date": "Tue Oct 31 05:51:03  2017",
+    "favorites": 52,
+    "rt": "31"
+  },
+  {
+  "name": "santicasas.eth🎗" ,
+  "nameScreen": "santicasas",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1349067865283035138/xkajI2I6_normal.jpg",
+  "text": "@Anvazher @fabianplaza Mi primer ordenador fue un VIC-20 y mi primer trabajo fue de programador de Apple II...",
+  "date": "Mon Dec 29 07:55:27  2008",
+  "favorites": 39674,
+  "rt": "66153"
+},
+{
+  "name": "4Geeks Academy Latam",
+  "nameScreen": "4geeksLatam",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1545237321519349760/35y2AD7D_normal.jpg",
+  "text": "Conseguirás tu primer trabajo, empezarás a ganar dinero pero continuarás aprendiendo hasta convertirte en Senior Developer, ganar muy bien y disfrutar de la vida de un programador. #ProgramaTuHistoria Con 4Geeks Academy.",
+  "date": "Mon Aug 24 22:25:22  2020",
+  "favorites": 188,
+  "rt": "875"
+},
+{
+  "name": "Tongas💛🖤✊",
+  "nameScreen": "gastonfalco8",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1548677031122145283/nRyYmRDC_normal.jpg",
+  "text": "@piarubi @sebas166019 Mi primer trabajo,en un supermercado.Teníamos cajeros, gente atendiendo en verdulería y en los demás sectores Hoy no hay gente en verdulería y no hay cajeros, DÓNDE MIERDA SE GANAN PUESTOS DE TRABAJO??Como dijo un sorete en un comentario,pierden los cajeros,gana UN programador",
+  "date": "Mon Mar 30 01:31:39  2015",
+  "favorites": 104630,
+  "rt": "8763"
+},
+{
+  "name": "Víctor Robles WEB",
+  "nameScreen": "victorobs",
+  "imgProfile": "http://pbs.twimg.com/profile_images/714360954507669504/N3RZeyjE_normal.jpg",
+  "text": "En el video de hoy:  Te voy a enseñar cómo aprender a programar rápido y conseguir tu primer trabajo de ingeniero de software, programador o desarrollador web a tiempo completo, todo paso a paso. 🔥",
+  "date": "Sat Aug 13 14:32:50  2011",
+  "favorites": 170,
+  "rt": "12843"
+},
+{
+  "name": "Gonzalo P 🏳️❌📏✝️" ,
+  "nameScreen": "GonchiP1",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1568229930982424576/bn4l3hVG_normal.jpg",
+  "text": "@CandyCornerSL @maestra_ellen Durante mi primer trabajo como programador, un día nos tocó trabajar desde casa por una huelga de transporte (aquí le llamamos paro), como yo no tenía computadora ni internet, le pedí prestada la suya a mi madre que vivía a dos casa. Cada dos o tres horas iba a decirme que...",
+  "date": "Mon Sep 14 22:55:21  2020",
+  "favorites": 102962,
+  "rt": "48947"
+},
+{
+  "name": "Jose Antonio Martin 🇪🇸🇪🇺🌍"    ,
+  "nameScreen": "joseantonmartin",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1577378477921157127/k-QDL-QE_normal.jpg",
+  "text": "Hazte un programador de primer nivel, estas webs te dan lo que necesitas",
+  "date": "Sun Apr 26 14:49:16  2009",
+  "favorites": 46089,
+  "rt": "27835"
+},
+{
+  "name": "#nerdearla",
+  "nameScreen": "nerdearla",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1413552332911034372/9iyc6FTt_normal.jpg",
+  "text": "🧑‍💻 Del 19 al 22 de octubre vuelve #nerdearla 😍🔥 No olvides registrarte en https://nerdear.la/es",
+  "date": "Thu Nov 07 05:50:39  2013",
+  "favorites": 6659,
+  "rt": "9305",
+  "imagen":"https://pbs.twimg.com/media/Fefs_QZX0AAV47U?format=jpg&name=medium"
+  },
+  {
+    "name": "Sergio #𝔏𝔦𝔤𝔞𝔇𝔢𝔊𝔲𝔢𝔯𝔯𝔢𝔯𝔬𝔰",               
+    "nameScreen": "SergioG79300186",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548893780090159105/6reKkBgz_normal.jpg",
+    "text": "@RicardoBSalinas #tioRichie de acuerdo a su experiencia que % destinado al ahorro conviene invertirlo en #Criptomonedas?",
+    "date": "11min",
+    "favorites": "299",
+    "rt": "3135",
+    "imagen": "https://pbs.twimg.com/media/Fek_Sl3XEAIqXPu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Sergio #𝔏𝔦𝔤𝔞𝔇𝔢𝔊𝔲𝔢𝔯𝔯𝔢𝔯𝔬𝔰",               
+    "nameScreen": "SergioG79300186",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548893780090159105/6reKkBgz_normal.jpg",
+    "text": "@RicardoBSalinas #tioRichie de acuerdo a su experiencia que % destinado al ahorro conviene invertirlo en #Criptomonedas?",
+    "date": "10min",
+    "favorites": "299",
+    "rt": "3135"
+  },
+  {
+    "name": "ハモン",
+    "nameScreen": "hamon_4000",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577658348240969731/5EXuNJo0_normal.png",
+    "text": "動画4つもあげられるのか。すごいじゃん。\n#PSO2NGS #CSGO #blender https://t.co/3xxKqLh2Uw",
+    "date": "2min",
+    "favorites": 14347,
+    "rt": "917"
+  },
+  {
+    "name": "Star Geek Command (SGC)",
+    "nameScreen": "stargeek13",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1468271648721674244/nLPI8537_normal.jpg",
+    "text": "The cancellation of Halo Infinite’s split-screen co-op changes my review Business-as-usual for some modern FPSes, but MSs 2017 pledge makes this one different #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo https://t.co/PyhY3sIPw1",
+    "date": "3min",
+    "favorites": 88,
+    "rt": "23437"
+  },
+  {
+    "name": "Peu.js 👩🏼‍💻",
+    "nameScreen": "LemonPeu",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548331949176983553/Ps_R3XVV_normal.jpg",
+    "text": "Nunca los vi uno al lado del otro (son madre e hijo y ella no lo soporta) 🥺🙏",
+    "date": "Fri Apr 08 01:59:26  2011",
+    "favorites": 66506,
+    "rt": "108871",
+    "imagen": "https://pbs.twimg.com/media/FelMGhDXgAAKZeD?format=jpg&name=large"
+  },
+  {
+    "name": "Muleware",
+    "nameScreen": "muleware_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1551318816268828672/If73NhXS_normal.jpg",
+    "text": "Tweet Im playing more CSGO. Twitch . tv / muleware #CSGO #twitch #VtubersEN",
+    "date": "20min",
+    "favorites": 5619,
+    "rt": "1300"
+  },
+  {
+    "name": "Yung Mario🔋",
+    "nameScreen": "RioPickss",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1519773647124283392/kr6E1BBH_normal.jpg",
+    "text": "I added #CSGO in the #Discord 🫣 got some plays up too ",
+    "date": "10min",
+    "favorites": 3079,
+    "rt": "1611"
+  },
+  {
+  "name": "Ighmaz ◢◤",
+  "nameScreen": "ighmaz_js",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1563514405299822595/gAnmoNVu_normal.jpg",
+  "text": "JavaScript Array method cheatsheet 🔥🚀 https://t.co/CwXeAEgMbo",
+  "date": "Wed Nov 14 11:22:33  2012",
+  "favorites": 74845,
+  "rt": "5158",
+  "imagen": "https://pbs.twimg.com/media/Fei7FjNagAAeX3S?format=jpg&name=large"
+  },
+  {
+    "name": "mil0u 🦇",
+    "nameScreen": "mil0uu_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577476689436839938/zwgZu2uD_normal.jpg",
+    "text": "#CSGO https://t.co/a1OQwF8cR0",
+    "date": "30s",
+    "favorites": 14,
+    "rt": "4"
+  },
+  {
+    "name": "Open Studios",
+    "nameScreen": "OpenStudios1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1431608380003549193/2Kfz4SK7_normal.jpg",
+    "text": "The wifi cage from Amazon doesn’t work.                               #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo #blog #pubg #movies #overwatch #photography #pcgamer https://t.co/JacaGWdeTB",
+    "date": "1min",
+    "favorites": 411,
+    "rt": "50174"
+  },
+  {
+  "name": "Mauro Lorenzo マウロ",
+  "nameScreen": "Lo_Mauro",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1026984734482747392/Ft905XOp_normal.jpg",
+  "text": "Me vuelvo loco. El vestido de la derecha y el de la izquierda (en el encuadre) tienen el MISMO COLOR. https://t.co/nY2AoUZPAk",
+  "date": "Tue Mar 31 05:19:42  2009",
+  "favorites": 96827,
+  "rt": "52118",
+  "imagen": "https://pbs.twimg.com/media/FejH5BPXgAEO1ij?format=jpg&name=small"
+  },
+  {
+    "name": "javier barroso",
+    "nameScreen": "javi20deco",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1347579345582362625/eh7g1_t9_normal.jpg",
+    "text": "Me extraña. Porque a mi me dijeron que este año muy bien. Como los últimos 15 años en los que Juli, oscar, Toscano, Mariano y toda esa pesca te las vendían desde la COPE como la clave del proyecto. Unas especies de Messi. Pero la culpa es SOLO de Ortiz. https://t.co/KuiZAJDJj4",
+    "date": "10min",
+    "favorites": 7961,
+    "rt": "65341"
+  },
+  {
+    "name": "Decime Moy",
+    "nameScreen": "NumasGrijalba",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577351869554376704/5yvZvNJy_normal.jpg",
+    "text": " Mi estimado si sabe que CR7 empezó jugando en el medio campo? Mientras que Messi empezó de falso 9 y de extremo por derecha? Y aun así cristiano tiene más goles que Messi",
+    "date": "2h",
+    "favorites": 11415,
+    "rt": "2234"
+  },
+  {
+    "name": "Gonzalo Rodríguez Gacha ™",
+    "nameScreen": "ElMexicano1947",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1342173624896282625/vyRRkw0Q_normal.jpg",
+    "text": "Para Lionel #Messi debe ser un insulto que lo comparen con #CristianoRonaldo",
+    "date": "20min",
+    "favorites": 4487,
+    "rt": "1132"
+  },
+  {
+    "name": "Lyncoln",
+    "nameScreen": "Muvhitorii",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1554156413836054529/VB6BojLk_normal.jpg",
+    "text": "@tipsypee This is also proof that @ManCity has got world class players. Not everyone can play alongside &amp; flourish with superstars like Haaland, Ronaldo, Messi, Mbappe etc! Classy footballers like Benzema, Foden, Dembele et al dont sulk or begrudge but up their game when stars join them.",
+    "date": "2min",
+    "favorites": 76126,
+    "rt": "64736"
+  },
+  {
+  "name": "PadelArg",
+  "nameScreen": "PadelArg",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1378462631447629825/1y9poDTW_normal.jpg",
+  "text": "Paquito y Martín 🇦🇷 sacaron a bailar a Sanyo🇦🇷-Tapia🇦🇷 6-1/6-1, mismo resultado por el que eliminaron ayer a Stupa🇦🇷-Lima. Definirán el título de Santander, en su despedida, contra Bela🇦🇷-Coello.",
+  "date": "Thu Mar 25 20:08:14  2021",
+  "favorites": 309,
+  "rt": "1417",
+  "imagen": "https://pbs.twimg.com/media/FekT5RBWQAMHVMJ?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Jochen H",
+    "nameScreen": "JochenHh",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1093039296632709120/fegQV5dh_normal.jpg",
+    "text": "@dimepepe0 La liga que... El arbitraje...Ademas no Messi no party.",
+    "date": "12h",
+    "favorites": 10284,
+    "rt": "6289"
+  },
+  {
+    "name": "Messimagic",
+    "nameScreen": "Tamilcinemalov1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1533648472226017280/Pg-nWons_normal.jpg",
+    "text": "@breathMessi21 Blissful sleep yesterday😂 messi should take rest in league games more often",
+    "date": "10h",
+    "favorites": 7655,
+    "rt": "1951"
+  },
+  {
+    "name": "めっし",
+    "nameScreen": "messi_iid",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1553995369691762694/h1ui66pS_normal.jpg",
+    "text": "@FZlycueUmQtjcvY 終盤は24時間以内に「バウンティトナメで優勝」とか難題言われますw 無料でできるならいいですね JOPTもオンラインイベント復活してるのでぜひぜひやりましょー！",
+    "date": "16min",
+    "favorites": 1859,
+    "rt": "1690"
+  },
+  {
+    "name": "BARÇALEO",
+    "nameScreen": "adal_zora",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1567282662112481285/hYho7dnh_normal.jpg",
+    "text": "@Joshua_Ubeku You can’t expect another answer from Cristiano. Messi would never have done it.",
+    "date": "10min",
+    "favorites": 3083,
+    "rt": "4537"
+  },
+  {
+  "name": "HLTV.org",
+  "nameScreen": "HLTVorg",
+  "imgProfile": "http://pbs.twimg.com/profile_images/766575292441845760/ySDr_slD_normal.jpg",
+  "text": "More than just a game 😢#IEM",
+  "date": "Thu Jul 09 22:37:28  2009",
+  "favorites": 595,
+  "rt": "63109",
+  "imagen": "https://pbs.twimg.com/media/Fek_Sl3XEAIqXPu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "🇲🇨 chris 🇲🇨 Monaco 🇲🇨",
+    "nameScreen": "hollybynight11",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1570200623601139715/jrO6rq4D_normal.jpg",
+    "text": "Paris cette saison sans Neymar et Messi… c’est pas terrible.",
+    "date": "8h",
+    "favorites": 2029,
+    "rt": "70345"
+  },
+  {
+    "name": "Im okey💜",
+    "nameScreen": "AmbrosineDionne",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1568069100017942529/lxAt76s3_normal.jpg",
+    "text": "@sehnippoppo Yo no lo leo, solo tengo la representación visual del nombre. Veo el texto junto y mi mente en automático Byeongkwan",
+    "date": "Fri Jan 29 02:13:34  2016",
+    "favorites": 38121,
+    "rt": "3662"
+  },
+  {
+    "name": "Marta Hortelano 🪆" ,
+    "nameScreen": "MartaHortelano",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1447255201962921985/1ScfgZtc_normal.jpg",
+    "text": "Lo más importante de las entrevistas es que el entrevistado se preste. Que entre a la conversación. Cuando eso sucede, el texto se lee solo. #9dOctubre #diadelacomunitatvalenciana ",
+    "date": "Wed Sep 01 09:57:55  2010",
+    "favorites": 3720,
+    "rt": "31670"
+  },
+  {
+    "name": "Aurora Inversora",
+    "nameScreen": "AurorAforismo",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1493146630274658305/o4NGfE1R_normal.jpg",
+    "text": "@nacidoatleti @buscandoameg Las imagenes están bien porque puedes ver las cosas tú mismo. Imagínate tener que informarse solo por el texto de ese @REjercitos . A la vez dice que seguramente sea una ataque de falsa bandera de Rusia que comparte memes de Zelenski diciendo Feliz Cumpleaños Putin🤮🤮",
+    "date": "Mon Feb 14 08:54:16  2022",
+    "favorites": 247,
+    "rt": "241"
+  },
+  {
+    "name": "María 🇪🇺🇺🇦"    ,
+    "nameScreen": "garciaespino7",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1512756815347519497/Uo1KJrx9_normal.jpg",
+    "text": "@_Silvivale Pues yo he visto a mucha gente escribir así. En mecanografía no aprendes sólo velocidad, también la forma correcta de colocar un texto con sus puntos, sus comas y sus espacios.",
+    "date": "Sat May 02 21:42:54  2015",
+    "favorites": 37282,
+    "rt": "26155"
+  },
+  {
+    "name": "A ɴ D R ó M ᴇ D ᴀ ♥️",
+    "nameScreen": "Anddromedda_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1517599172698034182/C9Rmuq74_normal.jpg",
+    "text": "Pues yo me estoy meando de sólo pensar en el tiempo que ha perdido escribiendo este texto de mierda y buscando fotos, vídeos y haciendo capturas 😂😂😂😂😂 https://t.co/sJL1m2ZGGJ",
+    "date": "Fri Jul 30 05:20:02  2021",
+    "favorites": 9766,
+    "rt": "1950"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "La materia no se crea ni se destruye, solo se transforma al igual que el amor.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "Si vas a aferrarte, procura que sea solo a tus metas y sueños, no a personas.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "Carlos Gonzalez",
+    "nameScreen": "carlitroz6969",
+    "imgProfile": "http://pbs.twimg.com/profile_images/477816871794663424/S04bfahV_normal.jpeg",
+    "text": "@MariaGu39714365 Ese texto ya lo había leído hace días, solo copiar y pegar, hasta huevones son",
+    "date": "Fri Apr 29 16:21:22  2011",
+    "favorites": 26348,
+    "rt": "12560"
+  },
+  {
+    "name": "Eevee Hyuuga",
+    "nameScreen": "EeveeHyuuga",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1505284018891276292/KLALP0NA_normal.jpg",
+    "text": "Otro evento web disponible~ es solo texto y un pequeño minijuego para 40 protos y algunos materialesGenshinImpact #Genshin",
+    "date": "Sat Mar 19 20:25:39  2022",
+    "favorites": 5,
+    "rt": "28"
+  },
+  {
+    "name": "rip jann",
+    "nameScreen": "1horndemon",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1563101505816772608/sZhTPjnt_normal.jpg",
+    "text": "hoy por primera vez hablé con mi amigo gringo por chat d voz después de 4 meses de jugar hablando solo por texto, pero lo que el no sabe es que en realidad no es mi amigo, si no una ayuda para mejorar mi inglés https://t.co/Bn14FahyQO",
+    "date": "Tue Apr 13 16:58:30  2021",
+    "favorites": 6731,
+    "rt": "4931"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "Solo la vida vivida para los demás es aquella que merece la pena.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "bot el deconstructor",
+    "nameScreen": "gwy_net_bot",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1402764592758013953/UEOz85uJ_normal.jpg",
+    "text": "el texto sufre sólo palabras del charco de agua",
+    "date": "Mon May 17 06:40:45  2021",
+    "favorites": 26,
+    "rt": "69823"
+  },
+  {
+    "name": "Blitegames",
+    "nameScreen": "blitegames",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1538152776986935298/zleWQWs4_normal.jpg",
+    "text": "Una gran aventura de texto iniciada por creadores anónimos hace 40 años solo se completó este año. #PC #año #anónimos #años #aventura #completo #creadores #este #Gran #hace #iniciada #por #solo #texto ",
+    "date": "Sun Oct 26 21:07:19  2014",
+    "favorites": 36,
+    "rt": "7030"
+  },
+  {
+  "name": "Antoinette lattouf",
+  "nameScreen": "AnToninI2817",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1547753237234663426/fzg5Eofq_normal.jpg",
+  "text": "Lo único q tengo para ofrecer son chistes malos",
+  "date": "Fri Jul 15 01:20:49  2022",
+  "favorites": 20,
+  "rt": "156"
+  },
+  {
+    "name": "Kraso",
+    "nameScreen": "Kraso65262139",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1573207404157747205/h3eZC2FB_normal.jpg",
+    "text": "@Javi19704 Me caes de pm gaitano,llamas a las cosas por su nombre y tus chistes malos me gustan.",
+    "date": "Sun Feb 13 21:59:47  2022",
+    "favorites": 941,
+    "rt": "1835"
+  },
+  {
+    "name": "𝘾𝙔𝙉𝙊."    ,
+    "nameScreen": "chistesdecyno",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578913914124918789/UKOgtCjz_normal.jpg",
+    "text": "Buena noche, sueñen con chistes malos.",
+    "date": "Sat Sep 10 23:49:18  2022",
+    "favorites": 101,
+    "rt": "130"
+  },
+  {
+    "name": "MOFO JOJO",
+    "nameScreen": "HorNicanor",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1521228252630638593/zKu_Cd9P_normal.jpg",
+    "text": "@RicardoBSalinas @MaangelesTc @PonchoGutz Piénselo bien Don Ricardo, a lo mejor le sirve de bufón para animar su fiesta… aunque pensándolo bien, si sus chistes son tan malos como El deforma, mejor no.",
+    "date": "Fri Jul 17 01:25:21  2020",
+    "favorites": 2730,
+    "rt": "3177"
+  },
+  {
+    "name": "meli",
+    "nameScreen": "melignlz",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1505628956959068160/hyK1uFse_normal.jpg",
+    "text": "honestamente los chistes matemáticos de andy están tan malos que me dan risa",
+    "date": "Mon Feb 10 23:23:36  2020",
+    "favorites": 2113,
+    "rt": "987"
+  },
+  {
+    "name": "k. shi",
+    "nameScreen": "cxlicocatt",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578841604735094785/Wdfe6FE5_normal.jpg",
+    "text": "@koceaneyes Voy a tener que seguir con mis chistes malos",
+    "date": "Wed Jul 27 22:04:15  2022",
+    "favorites": 1654,
+    "rt": "1278"
+  },
+  {
+    "name": "charliess 🧛‍♂️ • 🎃 • 👻",
+    "nameScreen": "thekwamisass",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576271435575738372/jcIlVebj_normal.jpg",
+    "text": "Ok, debería dejar de contar chistes malos jajajajjahq",
+    "date": "Tue Mar 16 22:48:42  2021",
+    "favorites": 10638,
+    "rt": "8818"
+  },
+  {
+    "name": "🦇Capitán Rock 🦇",
+    "nameScreen": "dannysays36",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578907863472214017/Sfp3utUU_normal.jpg",
+    "text": "@de_comala Jajajajajaja Segui forzando el chiste que                                  se nota que no tenes la chispa del humor cordobés, forzálo tanto hasta que se te rompa el frenillo, y cura las heridas con alcohol, no con tus chistes malos, porque en un bar vos, hoy, te comerías un cachetazo, con la mano bien abierta.",
+    "date": "Sat Apr 20 15:30:27  2019",
+    "favorites": 46641,
+    "rt": "87667"
+  },
+  {
+    "name": "Gearless Joe",
+    "nameScreen": "Recocar1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1561930162660319237/_2J-BVgm_normal.jpg",
+    "text": "Mi personalidad es hacer chistes malos de los que me río solo y luego mirar a la cámara imaginaria",
+    "date": "Fri May 31 05:57:22  2019",
+    "favorites": 3726,
+    "rt": "2561"
+  },
+  {
+    "name": "RS/SBX | S-tibio",
+    "nameScreen": "Stevegil007",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578410295525052416/rJwtAT7W_normal.jpg",
+    "text": "@Benjamingil007 @andy_pls Este fue un pésimo chiste, obvio fue “Malos Chistes Pls”",
+    "date": "Wed Jul 06 06:14:56  2011",
+    "favorites": 14228,
+    "rt": "12028"
+  },
+{
+  "name": "Víctor Robles WEB",
+  "nameScreen": "victorobs",
+  "imgProfile": "http://pbs.twimg.com/profile_images/714360954507669504/N3RZeyjE_normal.jpg",
+  "text": "En el video de hoy:  Te voy a enseñar cómo aprender a programar rápido y conseguir tu primer trabajo de ingeniero de software, programador o desarrollador web a tiempo completo, todo paso a paso. 🔥",
+  "date": "Sat Aug 13 14:32:50  2011",
+  "favorites": 170,
+  "rt": "12843"
+},
+{
+  "name": "Gonzalo P 🏳️❌📏✝️" ,
+  "nameScreen": "GonchiP1",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1568229930982424576/bn4l3hVG_normal.jpg",
+  "text": "@CandyCornerSL @maestra_ellen Durante mi primer trabajo como programador, un día nos tocó trabajar desde casa por una huelga de transporte (aquí le llamamos paro), como yo no tenía computadora ni internet, le pedí prestada la suya a mi madre que vivía a dos casa. Cada dos o tres horas iba a decirme que...",
+  "date": "Mon Sep 14 22:55:21  2020",
+  "favorites": 102962,
+  "rt": "48947"
+},
+{
+  "name": "Jose Antonio Martin 🇪🇸🇪🇺🌍"    ,
+  "nameScreen": "joseantonmartin",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1577378477921157127/k-QDL-QE_normal.jpg",
+  "text": "Hazte un programador de primer nivel, estas webs te dan lo que necesitas",
+  "date": "Sun Apr 26 14:49:16  2009",
+  "favorites": 46089,
+  "rt": "27835"
+},
+  {
+    "name": "Miguel Canales",
+    "nameScreen": "MiguelC59560236",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1561751343483834368/Dn3mvzVa_normal.jpg",
+    "text": "@jose11_gg @RicardoBSalinas @PonchoGutz Jajaja es una fiesta de cumpleaños, que weba tener que aguantar los chistes malos del teto arrastrado",
+    "date": "Thu Jun 16 23:28:00  2022",
+    "favorites": 15670,
+    "rt": "11989"
+  },
+  {
+    "name": "Luis alfonso baez",
+    "nameScreen": "Luisalfonsobae3",
+    "imgProfile": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "text": "@ghitis después del tumbe de las casa de 70 m2 a setecientos millones, y los hps periodistas prepago no dijeron no mierda y ahora haciendo chistes malos ..",
+    "date": "Tue Apr 05 03:39:24  2016",
+    "favorites": 108511,
+    "rt": "78684"
+  },
+  {
+    "name": "kiki",
+    "nameScreen": "___kikii__",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576965135599652866/ErNguK2W_normal.jpg",
+    "text": "extraño a candelita y sus chistes malos 💔",
+    "date": "Mon Oct 03 15:58:45  2022",
+    "favorites": 116,
+    "rt": "44"
+  },
+  {
+    "name": "Massiel Téllez",
+    "nameScreen": "tellez_massiel",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576786653649293313/DOpcuK26_normal.jpg",
+    "text": "De tu voz, de tus carcajadas y tus chistes malos, me estoy olvidando                   de lo segura que me sentía cuando me abrazabas o me tomabas de la mano y lo escuchada que me sentía cuando te contaba mis problemas pero creo que estarás orgullosa...",
+    "date": "Tue Oct 31 05:51:03  2017",
+    "favorites": 52,
+    "rt": "31"
+  },
+  {
+  "name": "santicasas.eth🎗" ,
+  "nameScreen": "santicasas",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1349067865283035138/xkajI2I6_normal.jpg",
+  "text": "@Anvazher @fabianplaza Mi primer ordenador fue un VIC-20 y mi primer trabajo fue de programador de Apple II...",
+  "date": "Mon Dec 29 07:55:27  2008",
+  "favorites": 39674,
+  "rt": "66153"
+},
+{
+  "name": "4Geeks Academy Latam",
+  "nameScreen": "4geeksLatam",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1545237321519349760/35y2AD7D_normal.jpg",
+  "text": "Conseguirás tu primer trabajo, empezarás a ganar dinero pero continuarás aprendiendo hasta convertirte en Senior Developer, ganar muy bien y disfrutar de la vida de un programador. #ProgramaTuHistoria Con 4Geeks Academy.",
+  "date": "Mon Aug 24 22:25:22  2020",
+  "favorites": 188,
+  "rt": "875"
+},
+{
+  "name": "Tongas💛🖤✊",
+  "nameScreen": "gastonfalco8",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1548677031122145283/nRyYmRDC_normal.jpg",
+  "text": "@piarubi @sebas166019 Mi primer trabajo,en un supermercado.Teníamos cajeros, gente atendiendo en verdulería y en los demás sectores Hoy no hay gente en verdulería y no hay cajeros, DÓNDE MIERDA SE GANAN PUESTOS DE TRABAJO??Como dijo un sorete en un comentario,pierden los cajeros,gana UN programador",
+  "date": "Mon Mar 30 01:31:39  2015",
+  "favorites": 104630,
+  "rt": "8763"
+},
+{
+  "name": "Víctor Robles WEB",
+  "nameScreen": "victorobs",
+  "imgProfile": "http://pbs.twimg.com/profile_images/714360954507669504/N3RZeyjE_normal.jpg",
+  "text": "En el video de hoy:  Te voy a enseñar cómo aprender a programar rápido y conseguir tu primer trabajo de ingeniero de software, programador o desarrollador web a tiempo completo, todo paso a paso. 🔥",
+  "date": "Sat Aug 13 14:32:50  2011",
+  "favorites": 170,
+  "rt": "12843"
+},
+{
+  "name": "Gonzalo P 🏳️❌📏✝️" ,
+  "nameScreen": "GonchiP1",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1568229930982424576/bn4l3hVG_normal.jpg",
+  "text": "@CandyCornerSL @maestra_ellen Durante mi primer trabajo como programador, un día nos tocó trabajar desde casa por una huelga de transporte (aquí le llamamos paro), como yo no tenía computadora ni internet, le pedí prestada la suya a mi madre que vivía a dos casa. Cada dos o tres horas iba a decirme que...",
+  "date": "Mon Sep 14 22:55:21  2020",
+  "favorites": 102962,
+  "rt": "48947"
+},
+{
+  "name": "Jose Antonio Martin 🇪🇸🇪🇺🌍"    ,
+  "nameScreen": "joseantonmartin",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1577378477921157127/k-QDL-QE_normal.jpg",
+  "text": "Hazte un programador de primer nivel, estas webs te dan lo que necesitas",
+  "date": "Sun Apr 26 14:49:16  2009",
+  "favorites": 46089,
+  "rt": "27835"
+},
+{
+  "name": "#nerdearla",
+  "nameScreen": "nerdearla",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1413552332911034372/9iyc6FTt_normal.jpg",
+  "text": "🧑‍💻 Del 19 al 22 de octubre vuelve #nerdearla 😍🔥 No olvides registrarte en https://nerdear.la/es",
+  "date": "Thu Nov 07 05:50:39  2013",
+  "favorites": 6659,
+  "rt": "9305",
+  "imagen":"https://pbs.twimg.com/media/Fefs_QZX0AAV47U?format=jpg&name=medium"
+  },
+  {
+    "name": "Sergio #𝔏𝔦𝔤𝔞𝔇𝔢𝔊𝔲𝔢𝔯𝔯𝔢𝔯𝔬𝔰",               
+    "nameScreen": "SergioG79300186",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548893780090159105/6reKkBgz_normal.jpg",
+    "text": "@RicardoBSalinas #tioRichie de acuerdo a su experiencia que % destinado al ahorro conviene invertirlo en #Criptomonedas?",
+    "date": "11min",
+    "favorites": "299",
+    "rt": "3135",
+    "imagen": "https://pbs.twimg.com/media/Fek_Sl3XEAIqXPu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Sergio #𝔏𝔦𝔤𝔞𝔇𝔢𝔊𝔲𝔢𝔯𝔯𝔢𝔯𝔬𝔰",               
+    "nameScreen": "SergioG79300186",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548893780090159105/6reKkBgz_normal.jpg",
+    "text": "@RicardoBSalinas #tioRichie de acuerdo a su experiencia que % destinado al ahorro conviene invertirlo en #Criptomonedas?",
+    "date": "10min",
+    "favorites": "299",
+    "rt": "3135"
+  },
+  {
+    "name": "ハモン",
+    "nameScreen": "hamon_4000",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577658348240969731/5EXuNJo0_normal.png",
+    "text": "動画4つもあげられるのか。すごいじゃん。\n#PSO2NGS #CSGO #blender https://t.co/3xxKqLh2Uw",
+    "date": "2min",
+    "favorites": 14347,
+    "rt": "917"
+  },
+  {
+    "name": "Star Geek Command (SGC)",
+    "nameScreen": "stargeek13",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1468271648721674244/nLPI8537_normal.jpg",
+    "text": "The cancellation of Halo Infinite’s split-screen co-op changes my review Business-as-usual for some modern FPSes, but MSs 2017 pledge makes this one different #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo https://t.co/PyhY3sIPw1",
+    "date": "3min",
+    "favorites": 88,
+    "rt": "23437"
+  },
+  {
+    "name": "Peu.js 👩🏼‍💻",
+    "nameScreen": "LemonPeu",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548331949176983553/Ps_R3XVV_normal.jpg",
+    "text": "Nunca los vi uno al lado del otro (son madre e hijo y ella no lo soporta) 🥺🙏",
+    "date": "Fri Apr 08 01:59:26  2011",
+    "favorites": 66506,
+    "rt": "108871",
+    "imagen": "https://pbs.twimg.com/media/FelMGhDXgAAKZeD?format=jpg&name=large"
+  },
+  {
+    "name": "Muleware",
+    "nameScreen": "muleware_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1551318816268828672/If73NhXS_normal.jpg",
+    "text": "Tweet Im playing more CSGO. Twitch . tv / muleware #CSGO #twitch #VtubersEN",
+    "date": "20min",
+    "favorites": 5619,
+    "rt": "1300"
+  },
+  {
+    "name": "Yung Mario🔋",
+    "nameScreen": "RioPickss",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1519773647124283392/kr6E1BBH_normal.jpg",
+    "text": "I added #CSGO in the #Discord 🫣 got some plays up too ",
+    "date": "10min",
+    "favorites": 3079,
+    "rt": "1611"
+  },
+  {
+  "name": "Ighmaz ◢◤",
+  "nameScreen": "ighmaz_js",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1563514405299822595/gAnmoNVu_normal.jpg",
+  "text": "JavaScript Array method cheatsheet 🔥🚀 https://t.co/CwXeAEgMbo",
+  "date": "Wed Nov 14 11:22:33  2012",
+  "favorites": 74845,
+  "rt": "5158",
+  "imagen": "https://pbs.twimg.com/media/Fei7FjNagAAeX3S?format=jpg&name=large"
+  },
+{
+  "name": "Víctor Robles WEB",
+  "nameScreen": "victorobs",
+  "imgProfile": "http://pbs.twimg.com/profile_images/714360954507669504/N3RZeyjE_normal.jpg",
+  "text": "En el video de hoy:  Te voy a enseñar cómo aprender a programar rápido y conseguir tu primer trabajo de ingeniero de software, programador o desarrollador web a tiempo completo, todo paso a paso. 🔥",
+  "date": "Sat Aug 13 14:32:50  2011",
+  "favorites": 170,
+  "rt": "12843"
+},
+{
+  "name": "Gonzalo P 🏳️❌📏✝️" ,
+  "nameScreen": "GonchiP1",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1568229930982424576/bn4l3hVG_normal.jpg",
+  "text": "@CandyCornerSL @maestra_ellen Durante mi primer trabajo como programador, un día nos tocó trabajar desde casa por una huelga de transporte (aquí le llamamos paro), como yo no tenía computadora ni internet, le pedí prestada la suya a mi madre que vivía a dos casa. Cada dos o tres horas iba a decirme que...",
+  "date": "Mon Sep 14 22:55:21  2020",
+  "favorites": 102962,
+  "rt": "48947"
+},
+{
+  "name": "Jose Antonio Martin 🇪🇸🇪🇺🌍"    ,
+  "nameScreen": "joseantonmartin",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1577378477921157127/k-QDL-QE_normal.jpg",
+  "text": "Hazte un programador de primer nivel, estas webs te dan lo que necesitas",
+  "date": "Sun Apr 26 14:49:16  2009",
+  "favorites": 46089,
+  "rt": "27835"
+},
+  {
+    "name": "mil0u 🦇",
+    "nameScreen": "mil0uu_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577476689436839938/zwgZu2uD_normal.jpg",
+    "text": "#CSGO https://t.co/a1OQwF8cR0",
+    "date": "30s",
+    "favorites": 14,
+    "rt": "4"
+  },
+  {
+    "name": "Open Studios",
+    "nameScreen": "OpenStudios1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1431608380003549193/2Kfz4SK7_normal.jpg",
+    "text": "The wifi cage from Amazon doesn’t work.                               #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo #blog #pubg #movies #overwatch #photography #pcgamer https://t.co/JacaGWdeTB",
+    "date": "1min",
+    "favorites": 411,
+    "rt": "50174"
+  },
+  {
+  "name": "Mauro Lorenzo マウロ",
+  "nameScreen": "Lo_Mauro",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1026984734482747392/Ft905XOp_normal.jpg",
+  "text": "Me vuelvo loco. El vestido de la derecha y el de la izquierda (en el encuadre) tienen el MISMO COLOR. https://t.co/nY2AoUZPAk",
+  "date": "Tue Mar 31 05:19:42  2009",
+  "favorites": 96827,
+  "rt": "52118",
+  "imagen": "https://pbs.twimg.com/media/FejH5BPXgAEO1ij?format=jpg&name=small"
+  },
+  {
+    "name": "javier barroso",
+    "nameScreen": "javi20deco",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1347579345582362625/eh7g1_t9_normal.jpg",
+    "text": "Me extraña. Porque a mi me dijeron que este año muy bien. Como los últimos 15 años en los que Juli, oscar, Toscano, Mariano y toda esa pesca te las vendían desde la COPE como la clave del proyecto. Unas especies de Messi. Pero la culpa es SOLO de Ortiz. https://t.co/KuiZAJDJj4",
+    "date": "10min",
+    "favorites": 7961,
+    "rt": "65341"
+  },
+  {
+    "name": "Decime Moy",
+    "nameScreen": "NumasGrijalba",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577351869554376704/5yvZvNJy_normal.jpg",
+    "text": " Mi estimado si sabe que CR7 empezó jugando en el medio campo? Mientras que Messi empezó de falso 9 y de extremo por derecha? Y aun así cristiano tiene más goles que Messi",
+    "date": "2h",
+    "favorites": 11415,
+    "rt": "2234"
+  },
+  {
+    "name": "Gonzalo Rodríguez Gacha ™",
+    "nameScreen": "ElMexicano1947",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1342173624896282625/vyRRkw0Q_normal.jpg",
+    "text": "Para Lionel #Messi debe ser un insulto que lo comparen con #CristianoRonaldo",
+    "date": "20min",
+    "favorites": 4487,
+    "rt": "1132"
+  },
+  {
+    "name": "Lyncoln",
+    "nameScreen": "Muvhitorii",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1554156413836054529/VB6BojLk_normal.jpg",
+    "text": "@tipsypee This is also proof that @ManCity has got world class players. Not everyone can play alongside &amp; flourish with superstars like Haaland, Ronaldo, Messi, Mbappe etc! Classy footballers like Benzema, Foden, Dembele et al dont sulk or begrudge but up their game when stars join them.",
+    "date": "2min",
+    "favorites": 76126,
+    "rt": "64736"
+  },
+  {
+  "name": "PadelArg",
+  "nameScreen": "PadelArg",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1378462631447629825/1y9poDTW_normal.jpg",
+  "text": "Paquito y Martín 🇦🇷 sacaron a bailar a Sanyo🇦🇷-Tapia🇦🇷 6-1/6-1, mismo resultado por el que eliminaron ayer a Stupa🇦🇷-Lima. Definirán el título de Santander, en su despedida, contra Bela🇦🇷-Coello.",
+  "date": "Thu Mar 25 20:08:14  2021",
+  "favorites": 309,
+  "rt": "1417",
+  "imagen": "https://pbs.twimg.com/media/FekT5RBWQAMHVMJ?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Jochen H",
+    "nameScreen": "JochenHh",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1093039296632709120/fegQV5dh_normal.jpg",
+    "text": "@dimepepe0 La liga que... El arbitraje...Ademas no Messi no party.",
+    "date": "12h",
+    "favorites": 10284,
+    "rt": "6289"
+  },
+  {
+    "name": "Messimagic",
+    "nameScreen": "Tamilcinemalov1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1533648472226017280/Pg-nWons_normal.jpg",
+    "text": "@breathMessi21 Blissful sleep yesterday😂 messi should take rest in league games more often",
+    "date": "10h",
+    "favorites": 7655,
+    "rt": "1951"
+  },
+  {
+    "name": "めっし",
+    "nameScreen": "messi_iid",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1553995369691762694/h1ui66pS_normal.jpg",
+    "text": "@FZlycueUmQtjcvY 終盤は24時間以内に「バウンティトナメで優勝」とか難題言われますw 無料でできるならいいですね JOPTもオンラインイベント復活してるのでぜひぜひやりましょー！",
+    "date": "16min",
+    "favorites": 1859,
+    "rt": "1690"
+  },
+  {
+    "name": "BARÇALEO",
+    "nameScreen": "adal_zora",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1567282662112481285/hYho7dnh_normal.jpg",
+    "text": "@Joshua_Ubeku You can’t expect another answer from Cristiano. Messi would never have done it.",
+    "date": "10min",
+    "favorites": 3083,
+    "rt": "4537"
+  },
+  {
+  "name": "HLTV.org",
+  "nameScreen": "HLTVorg",
+  "imgProfile": "http://pbs.twimg.com/profile_images/766575292441845760/ySDr_slD_normal.jpg",
+  "text": "More than just a game 😢#IEM",
+  "date": "Thu Jul 09 22:37:28  2009",
+  "favorites": 595,
+  "rt": "63109",
+  "imagen": "https://pbs.twimg.com/media/Fek_Sl3XEAIqXPu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "🇲🇨 chris 🇲🇨 Monaco 🇲🇨",
+    "nameScreen": "hollybynight11",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1570200623601139715/jrO6rq4D_normal.jpg",
+    "text": "Paris cette saison sans Neymar et Messi… c’est pas terrible.",
+    "date": "8h",
+    "favorites": 2029,
+    "rt": "70345"
+  },
+  {
+    "name": "Im okey💜",
+    "nameScreen": "AmbrosineDionne",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1568069100017942529/lxAt76s3_normal.jpg",
+    "text": "@sehnippoppo Yo no lo leo, solo tengo la representación visual del nombre. Veo el texto junto y mi mente en automático Byeongkwan",
+    "date": "Fri Jan 29 02:13:34  2016",
+    "favorites": 38121,
+    "rt": "3662"
+  },
+  {
+    "name": "Marta Hortelano 🪆" ,
+    "nameScreen": "MartaHortelano",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1447255201962921985/1ScfgZtc_normal.jpg",
+    "text": "Lo más importante de las entrevistas es que el entrevistado se preste. Que entre a la conversación. Cuando eso sucede, el texto se lee solo. #9dOctubre #diadelacomunitatvalenciana ",
+    "date": "Wed Sep 01 09:57:55  2010",
+    "favorites": 3720,
+    "rt": "31670"
+  },
+  {
+    "name": "Aurora Inversora",
+    "nameScreen": "AurorAforismo",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1493146630274658305/o4NGfE1R_normal.jpg",
+    "text": "@nacidoatleti @buscandoameg Las imagenes están bien porque puedes ver las cosas tú mismo. Imagínate tener que informarse solo por el texto de ese @REjercitos . A la vez dice que seguramente sea una ataque de falsa bandera de Rusia que comparte memes de Zelenski diciendo Feliz Cumpleaños Putin🤮🤮",
+    "date": "Mon Feb 14 08:54:16  2022",
+    "favorites": 247,
+    "rt": "241"
+  },
+  {
+    "name": "María 🇪🇺🇺🇦"    ,
+    "nameScreen": "garciaespino7",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1512756815347519497/Uo1KJrx9_normal.jpg",
+    "text": "@_Silvivale Pues yo he visto a mucha gente escribir así. En mecanografía no aprendes sólo velocidad, también la forma correcta de colocar un texto con sus puntos, sus comas y sus espacios.",
+    "date": "Sat May 02 21:42:54  2015",
+    "favorites": 37282,
+    "rt": "26155"
+  },
+  {
+    "name": "A ɴ D R ó M ᴇ D ᴀ ♥️",
+    "nameScreen": "Anddromedda_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1517599172698034182/C9Rmuq74_normal.jpg",
+    "text": "Pues yo me estoy meando de sólo pensar en el tiempo que ha perdido escribiendo este texto de mierda y buscando fotos, vídeos y haciendo capturas 😂😂😂😂😂 https://t.co/sJL1m2ZGGJ",
+    "date": "Fri Jul 30 05:20:02  2021",
+    "favorites": 9766,
+    "rt": "1950"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "La materia no se crea ni se destruye, solo se transforma al igual que el amor.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "Si vas a aferrarte, procura que sea solo a tus metas y sueños, no a personas.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "Carlos Gonzalez",
+    "nameScreen": "carlitroz6969",
+    "imgProfile": "http://pbs.twimg.com/profile_images/477816871794663424/S04bfahV_normal.jpeg",
+    "text": "@MariaGu39714365 Ese texto ya lo había leído hace días, solo copiar y pegar, hasta huevones son",
+    "date": "Fri Apr 29 16:21:22  2011",
+    "favorites": 26348,
+    "rt": "12560"
+  },
+  {
+    "name": "Eevee Hyuuga",
+    "nameScreen": "EeveeHyuuga",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1505284018891276292/KLALP0NA_normal.jpg",
+    "text": "Otro evento web disponible~ es solo texto y un pequeño minijuego para 40 protos y algunos materialesGenshinImpact #Genshin",
+    "date": "Sat Mar 19 20:25:39  2022",
+    "favorites": 5,
+    "rt": "28"
+  },
+  {
+    "name": "rip jann",
+    "nameScreen": "1horndemon",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1563101505816772608/sZhTPjnt_normal.jpg",
+    "text": "hoy por primera vez hablé con mi amigo gringo por chat d voz después de 4 meses de jugar hablando solo por texto, pero lo que el no sabe es que en realidad no es mi amigo, si no una ayuda para mejorar mi inglés https://t.co/Bn14FahyQO",
+    "date": "Tue Apr 13 16:58:30  2021",
+    "favorites": 6731,
+    "rt": "4931"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "Solo la vida vivida para los demás es aquella que merece la pena.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "bot el deconstructor",
+    "nameScreen": "gwy_net_bot",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1402764592758013953/UEOz85uJ_normal.jpg",
+    "text": "el texto sufre sólo palabras del charco de agua",
+    "date": "Mon May 17 06:40:45  2021",
+    "favorites": 26,
+    "rt": "69823"
+  },
+  {
+    "name": "Blitegames",
+    "nameScreen": "blitegames",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1538152776986935298/zleWQWs4_normal.jpg",
+    "text": "Una gran aventura de texto iniciada por creadores anónimos hace 40 años solo se completó este año. #PC #año #anónimos #años #aventura #completo #creadores #este #Gran #hace #iniciada #por #solo #texto ",
+    "date": "Sun Oct 26 21:07:19  2014",
+    "favorites": 36,
+    "rt": "7030"
+  },
+  {
+  "name": "Antoinette lattouf",
+  "nameScreen": "AnToninI2817",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1547753237234663426/fzg5Eofq_normal.jpg",
+  "text": "Lo único q tengo para ofrecer son chistes malos",
+  "date": "Fri Jul 15 01:20:49  2022",
+  "favorites": 20,
+  "rt": "156"
+  },
+  {
+    "name": "Kraso",
+    "nameScreen": "Kraso65262139",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1573207404157747205/h3eZC2FB_normal.jpg",
+    "text": "@Javi19704 Me caes de pm gaitano,llamas a las cosas por su nombre y tus chistes malos me gustan.",
+    "date": "Sun Feb 13 21:59:47  2022",
+    "favorites": 941,
+    "rt": "1835"
+  },
+  {
+    "name": "𝘾𝙔𝙉𝙊."    ,
+    "nameScreen": "chistesdecyno",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578913914124918789/UKOgtCjz_normal.jpg",
+    "text": "Buena noche, sueñen con chistes malos.",
+    "date": "Sat Sep 10 23:49:18  2022",
+    "favorites": 101,
+    "rt": "130"
+  },
+  {
+    "name": "MOFO JOJO",
+    "nameScreen": "HorNicanor",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1521228252630638593/zKu_Cd9P_normal.jpg",
+    "text": "@RicardoBSalinas @MaangelesTc @PonchoGutz Piénselo bien Don Ricardo, a lo mejor le sirve de bufón para animar su fiesta… aunque pensándolo bien, si sus chistes son tan malos como El deforma, mejor no.",
+    "date": "Fri Jul 17 01:25:21  2020",
+    "favorites": 2730,
+    "rt": "3177"
+  },
+  {
+    "name": "meli",
+    "nameScreen": "melignlz",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1505628956959068160/hyK1uFse_normal.jpg",
+    "text": "honestamente los chistes matemáticos de andy están tan malos que me dan risa",
+    "date": "Mon Feb 10 23:23:36  2020",
+    "favorites": 2113,
+    "rt": "987"
+  },
+  {
+    "name": "k. shi",
+    "nameScreen": "cxlicocatt",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578841604735094785/Wdfe6FE5_normal.jpg",
+    "text": "@koceaneyes Voy a tener que seguir con mis chistes malos",
+    "date": "Wed Jul 27 22:04:15  2022",
+    "favorites": 1654,
+    "rt": "1278"
+  },
+  {
+    "name": "charliess 🧛‍♂️ • 🎃 • 👻",
+    "nameScreen": "thekwamisass",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576271435575738372/jcIlVebj_normal.jpg",
+    "text": "Ok, debería dejar de contar chistes malos jajajajjahq",
+    "date": "Tue Mar 16 22:48:42  2021",
+    "favorites": 10638,
+    "rt": "8818"
+  },
+  {
+    "name": "🦇Capitán Rock 🦇",
+    "nameScreen": "dannysays36",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578907863472214017/Sfp3utUU_normal.jpg",
+    "text": "@de_comala Jajajajajaja Segui forzando el chiste que                                  se nota que no tenes la chispa del humor cordobés, forzálo tanto hasta que se te rompa el frenillo, y cura las heridas con alcohol, no con tus chistes malos, porque en un bar vos, hoy, te comerías un cachetazo, con la mano bien abierta.",
+    "date": "Sat Apr 20 15:30:27  2019",
+    "favorites": 46641,
+    "rt": "87667"
+  },
+  {
+    "name": "Gearless Joe",
+    "nameScreen": "Recocar1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1561930162660319237/_2J-BVgm_normal.jpg",
+    "text": "Mi personalidad es hacer chistes malos de los que me río solo y luego mirar a la cámara imaginaria",
+    "date": "Fri May 31 05:57:22  2019",
+    "favorites": 3726,
+    "rt": "2561"
+  },
+  {
+    "name": "RS/SBX | S-tibio",
+    "nameScreen": "Stevegil007",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578410295525052416/rJwtAT7W_normal.jpg",
+    "text": "@Benjamingil007 @andy_pls Este fue un pésimo chiste, obvio fue “Malos Chistes Pls”",
+    "date": "Wed Jul 06 06:14:56  2011",
+    "favorites": 14228,
+    "rt": "12028"
+  },
+  {
+    "name": "Miguel Canales",
+    "nameScreen": "MiguelC59560236",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1561751343483834368/Dn3mvzVa_normal.jpg",
+    "text": "@jose11_gg @RicardoBSalinas @PonchoGutz Jajaja es una fiesta de cumpleaños, que weba tener que aguantar los chistes malos del teto arrastrado",
+    "date": "Thu Jun 16 23:28:00  2022",
+    "favorites": 15670,
+    "rt": "11989"
+  },
+  {
+    "name": "Luis alfonso baez",
+    "nameScreen": "Luisalfonsobae3",
+    "imgProfile": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "text": "@ghitis después del tumbe de las casa de 70 m2 a setecientos millones, y los hps periodistas prepago no dijeron no mierda y ahora haciendo chistes malos ..",
+    "date": "Tue Apr 05 03:39:24  2016",
+    "favorites": 108511,
+    "rt": "78684"
+  },
+  {
+    "name": "kiki",
+    "nameScreen": "___kikii__",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576965135599652866/ErNguK2W_normal.jpg",
+    "text": "extraño a candelita y sus chistes malos 💔",
+    "date": "Mon Oct 03 15:58:45  2022",
+    "favorites": 116,
+    "rt": "44"
+  },
+  {
+    "name": "Massiel Téllez",
+    "nameScreen": "tellez_massiel",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576786653649293313/DOpcuK26_normal.jpg",
+    "text": "De tu voz, de tus carcajadas y tus chistes malos, me estoy olvidando                   de lo segura que me sentía cuando me abrazabas o me tomabas de la mano y lo escuchada que me sentía cuando te contaba mis problemas pero creo que estarás orgullosa...",
+    "date": "Tue Oct 31 05:51:03  2017",
+    "favorites": 52,
+    "rt": "31"
+  },
+  {
+  "name": "santicasas.eth🎗" ,
+  "nameScreen": "santicasas",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1349067865283035138/xkajI2I6_normal.jpg",
+  "text": "@Anvazher @fabianplaza Mi primer ordenador fue un VIC-20 y mi primer trabajo fue de programador de Apple II...",
+  "date": "Mon Dec 29 07:55:27  2008",
+  "favorites": 39674,
+  "rt": "66153"
+},
+{
+  "name": "4Geeks Academy Latam",
+  "nameScreen": "4geeksLatam",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1545237321519349760/35y2AD7D_normal.jpg",
+  "text": "Conseguirás tu primer trabajo, empezarás a ganar dinero pero continuarás aprendiendo hasta convertirte en Senior Developer, ganar muy bien y disfrutar de la vida de un programador. #ProgramaTuHistoria Con 4Geeks Academy.",
+  "date": "Mon Aug 24 22:25:22  2020",
+  "favorites": 188,
+  "rt": "875"
+},
+{
+  "name": "Tongas💛🖤✊",
+  "nameScreen": "gastonfalco8",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1548677031122145283/nRyYmRDC_normal.jpg",
+  "text": "@piarubi @sebas166019 Mi primer trabajo,en un supermercado.Teníamos cajeros, gente atendiendo en verdulería y en los demás sectores Hoy no hay gente en verdulería y no hay cajeros, DÓNDE MIERDA SE GANAN PUESTOS DE TRABAJO??Como dijo un sorete en un comentario,pierden los cajeros,gana UN programador",
+  "date": "Mon Mar 30 01:31:39  2015",
+  "favorites": 104630,
+  "rt": "8763"
+},
+{
+  "name": "Víctor Robles WEB",
+  "nameScreen": "victorobs",
+  "imgProfile": "http://pbs.twimg.com/profile_images/714360954507669504/N3RZeyjE_normal.jpg",
+  "text": "En el video de hoy:  Te voy a enseñar cómo aprender a programar rápido y conseguir tu primer trabajo de ingeniero de software, programador o desarrollador web a tiempo completo, todo paso a paso. 🔥",
+  "date": "Sat Aug 13 14:32:50  2011",
+  "favorites": 170,
+  "rt": "12843"
+},
+{
+  "name": "Gonzalo P 🏳️❌📏✝️" ,
+  "nameScreen": "GonchiP1",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1568229930982424576/bn4l3hVG_normal.jpg",
+  "text": "@CandyCornerSL @maestra_ellen Durante mi primer trabajo como programador, un día nos tocó trabajar desde casa por una huelga de transporte (aquí le llamamos paro), como yo no tenía computadora ni internet, le pedí prestada la suya a mi madre que vivía a dos casa. Cada dos o tres horas iba a decirme que...",
+  "date": "Mon Sep 14 22:55:21  2020",
+  "favorites": 102962,
+  "rt": "48947"
+},
+{
+  "name": "Jose Antonio Martin 🇪🇸🇪🇺🌍"    ,
+  "nameScreen": "joseantonmartin",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1577378477921157127/k-QDL-QE_normal.jpg",
+  "text": "Hazte un programador de primer nivel, estas webs te dan lo que necesitas",
+  "date": "Sun Apr 26 14:49:16  2009",
+  "favorites": 46089,
+  "rt": "27835"
+},
+{
+  "name": "#nerdearla",
+  "nameScreen": "nerdearla",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1413552332911034372/9iyc6FTt_normal.jpg",
+  "text": "🧑‍💻 Del 19 al 22 de octubre vuelve #nerdearla 😍🔥 No olvides registrarte en https://nerdear.la/es",
+  "date": "Thu Nov 07 05:50:39  2013",
+  "favorites": 6659,
+  "rt": "9305",
+  "imagen":"https://pbs.twimg.com/media/Fefs_QZX0AAV47U?format=jpg&name=medium"
+  },
+  {
+    "name": "Sergio #𝔏𝔦𝔤𝔞𝔇𝔢𝔊𝔲𝔢𝔯𝔯𝔢𝔯𝔬𝔰",               
+    "nameScreen": "SergioG79300186",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548893780090159105/6reKkBgz_normal.jpg",
+    "text": "@RicardoBSalinas #tioRichie de acuerdo a su experiencia que % destinado al ahorro conviene invertirlo en #Criptomonedas?",
+    "date": "11min",
+    "favorites": "299",
+    "rt": "3135",
+    "imagen": "https://pbs.twimg.com/media/Fek_Sl3XEAIqXPu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Sergio #𝔏𝔦𝔤𝔞𝔇𝔢𝔊𝔲𝔢𝔯𝔯𝔢𝔯𝔬𝔰",               
+    "nameScreen": "SergioG79300186",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548893780090159105/6reKkBgz_normal.jpg",
+    "text": "@RicardoBSalinas #tioRichie de acuerdo a su experiencia que % destinado al ahorro conviene invertirlo en #Criptomonedas?",
+    "date": "10min",
+    "favorites": "299",
+    "rt": "3135"
+  },
+  {
+    "name": "ハモン",
+    "nameScreen": "hamon_4000",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577658348240969731/5EXuNJo0_normal.png",
+    "text": "動画4つもあげられるのか。すごいじゃん。\n#PSO2NGS #CSGO #blender https://t.co/3xxKqLh2Uw",
+    "date": "2min",
+    "favorites": 14347,
+    "rt": "917"
+  },
+  {
+    "name": "Star Geek Command (SGC)",
+    "nameScreen": "stargeek13",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1468271648721674244/nLPI8537_normal.jpg",
+    "text": "The cancellation of Halo Infinite’s split-screen co-op changes my review Business-as-usual for some modern FPSes, but MSs 2017 pledge makes this one different #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo https://t.co/PyhY3sIPw1",
+    "date": "3min",
+    "favorites": 88,
+    "rt": "23437"
+  },
+  {
+    "name": "Peu.js 👩🏼‍💻",
+    "nameScreen": "LemonPeu",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1548331949176983553/Ps_R3XVV_normal.jpg",
+    "text": "Nunca los vi uno al lado del otro (son madre e hijo y ella no lo soporta) 🥺🙏",
+    "date": "Fri Apr 08 01:59:26  2011",
+    "favorites": 66506,
+    "rt": "108871",
+    "imagen": "https://pbs.twimg.com/media/FelMGhDXgAAKZeD?format=jpg&name=large"
+  },
+  {
+    "name": "Muleware",
+    "nameScreen": "muleware_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1551318816268828672/If73NhXS_normal.jpg",
+    "text": "Tweet Im playing more CSGO. Twitch . tv / muleware #CSGO #twitch #VtubersEN",
+    "date": "20min",
+    "favorites": 5619,
+    "rt": "1300"
+  },
+  {
+    "name": "Yung Mario🔋",
+    "nameScreen": "RioPickss",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1519773647124283392/kr6E1BBH_normal.jpg",
+    "text": "I added #CSGO in the #Discord 🫣 got some plays up too ",
+    "date": "10min",
+    "favorites": 3079,
+    "rt": "1611"
+  },
+  {
+  "name": "Ighmaz ◢◤",
+  "nameScreen": "ighmaz_js",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1563514405299822595/gAnmoNVu_normal.jpg",
+  "text": "JavaScript Array method cheatsheet 🔥🚀 https://t.co/CwXeAEgMbo",
+  "date": "Wed Nov 14 11:22:33  2012",
+  "favorites": 74845,
+  "rt": "5158",
+  "imagen": "https://pbs.twimg.com/media/Fei7FjNagAAeX3S?format=jpg&name=large"
+  },
+  {
+    "name": "mil0u 🦇",
+    "nameScreen": "mil0uu_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577476689436839938/zwgZu2uD_normal.jpg",
+    "text": "#CSGO https://t.co/a1OQwF8cR0",
+    "date": "30s",
+    "favorites": 14,
+    "rt": "4"
+  },
+  {
+    "name": "Open Studios",
+    "nameScreen": "OpenStudios1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1431608380003549193/2Kfz4SK7_normal.jpg",
+    "text": "The wifi cage from Amazon doesn’t work.                               #gaming #news #gamer #australia #gamers #love #esports #sydney #gta5 #blogger #csgo #blog #pubg #movies #overwatch #photography #pcgamer https://t.co/JacaGWdeTB",
+    "date": "1min",
+    "favorites": 411,
+    "rt": "50174"
+  },
+  {
+  "name": "Mauro Lorenzo マウロ",
+  "nameScreen": "Lo_Mauro",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1026984734482747392/Ft905XOp_normal.jpg",
+  "text": "Me vuelvo loco. El vestido de la derecha y el de la izquierda (en el encuadre) tienen el MISMO COLOR. https://t.co/nY2AoUZPAk",
+  "date": "Tue Mar 31 05:19:42  2009",
+  "favorites": 96827,
+  "rt": "52118",
+  "imagen": "https://pbs.twimg.com/media/FejH5BPXgAEO1ij?format=jpg&name=small"
+  },
+  {
+    "name": "javier barroso",
+    "nameScreen": "javi20deco",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1347579345582362625/eh7g1_t9_normal.jpg",
+    "text": "Me extraña. Porque a mi me dijeron que este año muy bien. Como los últimos 15 años en los que Juli, oscar, Toscano, Mariano y toda esa pesca te las vendían desde la COPE como la clave del proyecto. Unas especies de Messi. Pero la culpa es SOLO de Ortiz. https://t.co/KuiZAJDJj4",
+    "date": "10min",
+    "favorites": 7961,
+    "rt": "65341"
+  },
+  {
+    "name": "Decime Moy",
+    "nameScreen": "NumasGrijalba",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1577351869554376704/5yvZvNJy_normal.jpg",
+    "text": " Mi estimado si sabe que CR7 empezó jugando en el medio campo? Mientras que Messi empezó de falso 9 y de extremo por derecha? Y aun así cristiano tiene más goles que Messi",
+    "date": "2h",
+    "favorites": 11415,
+    "rt": "2234"
+  },
+  {
+    "name": "Gonzalo Rodríguez Gacha ™",
+    "nameScreen": "ElMexicano1947",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1342173624896282625/vyRRkw0Q_normal.jpg",
+    "text": "Para Lionel #Messi debe ser un insulto que lo comparen con #CristianoRonaldo",
+    "date": "20min",
+    "favorites": 4487,
+    "rt": "1132"
+  },
+  {
+    "name": "Lyncoln",
+    "nameScreen": "Muvhitorii",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1554156413836054529/VB6BojLk_normal.jpg",
+    "text": "@tipsypee This is also proof that @ManCity has got world class players. Not everyone can play alongside &amp; flourish with superstars like Haaland, Ronaldo, Messi, Mbappe etc! Classy footballers like Benzema, Foden, Dembele et al dont sulk or begrudge but up their game when stars join them.",
+    "date": "2min",
+    "favorites": 76126,
+    "rt": "64736"
+  },
+  {
+  "name": "PadelArg",
+  "nameScreen": "PadelArg",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1378462631447629825/1y9poDTW_normal.jpg",
+  "text": "Paquito y Martín 🇦🇷 sacaron a bailar a Sanyo🇦🇷-Tapia🇦🇷 6-1/6-1, mismo resultado por el que eliminaron ayer a Stupa🇦🇷-Lima. Definirán el título de Santander, en su despedida, contra Bela🇦🇷-Coello.",
+  "date": "Thu Mar 25 20:08:14  2021",
+  "favorites": 309,
+  "rt": "1417",
+  "imagen": "https://pbs.twimg.com/media/FekT5RBWQAMHVMJ?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "Jochen H",
+    "nameScreen": "JochenHh",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1093039296632709120/fegQV5dh_normal.jpg",
+    "text": "@dimepepe0 La liga que... El arbitraje...Ademas no Messi no party.",
+    "date": "12h",
+    "favorites": 10284,
+    "rt": "6289"
+  },
+  {
+    "name": "Messimagic",
+    "nameScreen": "Tamilcinemalov1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1533648472226017280/Pg-nWons_normal.jpg",
+    "text": "@breathMessi21 Blissful sleep yesterday😂 messi should take rest in league games more often",
+    "date": "10h",
+    "favorites": 7655,
+    "rt": "1951"
+  },
+  {
+    "name": "めっし",
+    "nameScreen": "messi_iid",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1553995369691762694/h1ui66pS_normal.jpg",
+    "text": "@FZlycueUmQtjcvY 終盤は24時間以内に「バウンティトナメで優勝」とか難題言われますw 無料でできるならいいですね JOPTもオンラインイベント復活してるのでぜひぜひやりましょー！",
+    "date": "16min",
+    "favorites": 1859,
+    "rt": "1690"
+  },
+  {
+    "name": "BARÇALEO",
+    "nameScreen": "adal_zora",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1567282662112481285/hYho7dnh_normal.jpg",
+    "text": "@Joshua_Ubeku You can’t expect another answer from Cristiano. Messi would never have done it.",
+    "date": "10min",
+    "favorites": 3083,
+    "rt": "4537"
+  },
+  {
+  "name": "HLTV.org",
+  "nameScreen": "HLTVorg",
+  "imgProfile": "http://pbs.twimg.com/profile_images/766575292441845760/ySDr_slD_normal.jpg",
+  "text": "More than just a game 😢#IEM",
+  "date": "Thu Jul 09 22:37:28  2009",
+  "favorites": 595,
+  "rt": "63109",
+  "imagen": "https://pbs.twimg.com/media/Fek_Sl3XEAIqXPu?format=jpg&name=4096x4096"
+  },
+  {
+    "name": "🇲🇨 chris 🇲🇨 Monaco 🇲🇨",
+    "nameScreen": "hollybynight11",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1570200623601139715/jrO6rq4D_normal.jpg",
+    "text": "Paris cette saison sans Neymar et Messi… c’est pas terrible.",
+    "date": "8h",
+    "favorites": 2029,
+    "rt": "70345"
+  },
+  {
+    "name": "Im okey💜",
+    "nameScreen": "AmbrosineDionne",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1568069100017942529/lxAt76s3_normal.jpg",
+    "text": "@sehnippoppo Yo no lo leo, solo tengo la representación visual del nombre. Veo el texto junto y mi mente en automático Byeongkwan",
+    "date": "Fri Jan 29 02:13:34  2016",
+    "favorites": 38121,
+    "rt": "3662"
+  },
+  {
+    "name": "Marta Hortelano 🪆" ,
+    "nameScreen": "MartaHortelano",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1447255201962921985/1ScfgZtc_normal.jpg",
+    "text": "Lo más importante de las entrevistas es que el entrevistado se preste. Que entre a la conversación. Cuando eso sucede, el texto se lee solo. #9dOctubre #diadelacomunitatvalenciana ",
+    "date": "Wed Sep 01 09:57:55  2010",
+    "favorites": 3720,
+    "rt": "31670"
+  },
+  {
+    "name": "Aurora Inversora",
+    "nameScreen": "AurorAforismo",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1493146630274658305/o4NGfE1R_normal.jpg",
+    "text": "@nacidoatleti @buscandoameg Las imagenes están bien porque puedes ver las cosas tú mismo. Imagínate tener que informarse solo por el texto de ese @REjercitos . A la vez dice que seguramente sea una ataque de falsa bandera de Rusia que comparte memes de Zelenski diciendo Feliz Cumpleaños Putin🤮🤮",
+    "date": "Mon Feb 14 08:54:16  2022",
+    "favorites": 247,
+    "rt": "241"
+  },
+  {
+    "name": "María 🇪🇺🇺🇦"    ,
+    "nameScreen": "garciaespino7",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1512756815347519497/Uo1KJrx9_normal.jpg",
+    "text": "@_Silvivale Pues yo he visto a mucha gente escribir así. En mecanografía no aprendes sólo velocidad, también la forma correcta de colocar un texto con sus puntos, sus comas y sus espacios.",
+    "date": "Sat May 02 21:42:54  2015",
+    "favorites": 37282,
+    "rt": "26155"
+  },
+  {
+    "name": "A ɴ D R ó M ᴇ D ᴀ ♥️",
+    "nameScreen": "Anddromedda_",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1517599172698034182/C9Rmuq74_normal.jpg",
+    "text": "Pues yo me estoy meando de sólo pensar en el tiempo que ha perdido escribiendo este texto de mierda y buscando fotos, vídeos y haciendo capturas 😂😂😂😂😂 https://t.co/sJL1m2ZGGJ",
+    "date": "Fri Jul 30 05:20:02  2021",
+    "favorites": 9766,
+    "rt": "1950"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "La materia no se crea ni se destruye, solo se transforma al igual que el amor.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "Si vas a aferrarte, procura que sea solo a tus metas y sueños, no a personas.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "Carlos Gonzalez",
+    "nameScreen": "carlitroz6969",
+    "imgProfile": "http://pbs.twimg.com/profile_images/477816871794663424/S04bfahV_normal.jpeg",
+    "text": "@MariaGu39714365 Ese texto ya lo había leído hace días, solo copiar y pegar, hasta huevones son",
+    "date": "Fri Apr 29 16:21:22  2011",
+    "favorites": 26348,
+    "rt": "12560"
+  },
+  {
+    "name": "Eevee Hyuuga",
+    "nameScreen": "EeveeHyuuga",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1505284018891276292/KLALP0NA_normal.jpg",
+    "text": "Otro evento web disponible~ es solo texto y un pequeño minijuego para 40 protos y algunos materialesGenshinImpact #Genshin",
+    "date": "Sat Mar 19 20:25:39  2022",
+    "favorites": 5,
+    "rt": "28"
+  },
+  {
+    "name": "rip jann",
+    "nameScreen": "1horndemon",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1563101505816772608/sZhTPjnt_normal.jpg",
+    "text": "hoy por primera vez hablé con mi amigo gringo por chat d voz después de 4 meses de jugar hablando solo por texto, pero lo que el no sabe es que en realidad no es mi amigo, si no una ayuda para mejorar mi inglés https://t.co/Bn14FahyQO",
+    "date": "Tue Apr 13 16:58:30  2021",
+    "favorites": 6731,
+    "rt": "4931"
+  },
+  {
+    "name": "Texto Favorito",
+    "nameScreen": "Texto_Favorito",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1485456696612958208/rjQdvswJ_normal.jpg",
+    "text": "Solo la vida vivida para los demás es aquella que merece la pena.",
+    "date": "Tue Dec 07 21:23:53  2021",
+    "favorites": 1,
+    "rt": "43859"
+  },
+  {
+    "name": "bot el deconstructor",
+    "nameScreen": "gwy_net_bot",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1402764592758013953/UEOz85uJ_normal.jpg",
+    "text": "el texto sufre sólo palabras del charco de agua",
+    "date": "Mon May 17 06:40:45  2021",
+    "favorites": 26,
+    "rt": "69823"
+  },
+  {
+    "name": "Blitegames",
+    "nameScreen": "blitegames",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1538152776986935298/zleWQWs4_normal.jpg",
+    "text": "Una gran aventura de texto iniciada por creadores anónimos hace 40 años solo se completó este año. #PC #año #anónimos #años #aventura #completo #creadores #este #Gran #hace #iniciada #por #solo #texto ",
+    "date": "Sun Oct 26 21:07:19  2014",
+    "favorites": 36,
+    "rt": "7030"
+  },
+  {
+  "name": "Antoinette lattouf",
+  "nameScreen": "AnToninI2817",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1547753237234663426/fzg5Eofq_normal.jpg",
+  "text": "Lo único q tengo para ofrecer son chistes malos",
+  "date": "Fri Jul 15 01:20:49  2022",
+  "favorites": 20,
+  "rt": "156"
+  },
+  {
+    "name": "Kraso",
+    "nameScreen": "Kraso65262139",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1573207404157747205/h3eZC2FB_normal.jpg",
+    "text": "@Javi19704 Me caes de pm gaitano,llamas a las cosas por su nombre y tus chistes malos me gustan.",
+    "date": "Sun Feb 13 21:59:47  2022",
+    "favorites": 941,
+    "rt": "1835"
+  },
+  {
+    "name": "𝘾𝙔𝙉𝙊."    ,
+    "nameScreen": "chistesdecyno",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578913914124918789/UKOgtCjz_normal.jpg",
+    "text": "Buena noche, sueñen con chistes malos.",
+    "date": "Sat Sep 10 23:49:18  2022",
+    "favorites": 101,
+    "rt": "130"
+  },
+  {
+    "name": "MOFO JOJO",
+    "nameScreen": "HorNicanor",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1521228252630638593/zKu_Cd9P_normal.jpg",
+    "text": "@RicardoBSalinas @MaangelesTc @PonchoGutz Piénselo bien Don Ricardo, a lo mejor le sirve de bufón para animar su fiesta… aunque pensándolo bien, si sus chistes son tan malos como El deforma, mejor no.",
+    "date": "Fri Jul 17 01:25:21  2020",
+    "favorites": 2730,
+    "rt": "3177"
+  },
+  {
+    "name": "meli",
+    "nameScreen": "melignlz",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1505628956959068160/hyK1uFse_normal.jpg",
+    "text": "honestamente los chistes matemáticos de andy están tan malos que me dan risa",
+    "date": "Mon Feb 10 23:23:36  2020",
+    "favorites": 2113,
+    "rt": "987"
+  },
+  {
+    "name": "k. shi",
+    "nameScreen": "cxlicocatt",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578841604735094785/Wdfe6FE5_normal.jpg",
+    "text": "@koceaneyes Voy a tener que seguir con mis chistes malos",
+    "date": "Wed Jul 27 22:04:15  2022",
+    "favorites": 1654,
+    "rt": "1278"
+  },
+  {
+    "name": "charliess 🧛‍♂️ • 🎃 • 👻",
+    "nameScreen": "thekwamisass",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576271435575738372/jcIlVebj_normal.jpg",
+    "text": "Ok, debería dejar de contar chistes malos jajajajjahq",
+    "date": "Tue Mar 16 22:48:42  2021",
+    "favorites": 10638,
+    "rt": "8818"
+  },
+  {
+    "name": "🦇Capitán Rock 🦇",
+    "nameScreen": "dannysays36",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578907863472214017/Sfp3utUU_normal.jpg",
+    "text": "@de_comala Jajajajajaja Segui forzando el chiste que                                  se nota que no tenes la chispa del humor cordobés, forzálo tanto hasta que se te rompa el frenillo, y cura las heridas con alcohol, no con tus chistes malos, porque en un bar vos, hoy, te comerías un cachetazo, con la mano bien abierta.",
+    "date": "Sat Apr 20 15:30:27  2019",
+    "favorites": 46641,
+    "rt": "87667"
+  },
+  {
+    "name": "Gearless Joe",
+    "nameScreen": "Recocar1",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1561930162660319237/_2J-BVgm_normal.jpg",
+    "text": "Mi personalidad es hacer chistes malos de los que me río solo y luego mirar a la cámara imaginaria",
+    "date": "Fri May 31 05:57:22  2019",
+    "favorites": 3726,
+    "rt": "2561"
+  },
+  {
+    "name": "RS/SBX | S-tibio",
+    "nameScreen": "Stevegil007",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1578410295525052416/rJwtAT7W_normal.jpg",
+    "text": "@Benjamingil007 @andy_pls Este fue un pésimo chiste, obvio fue “Malos Chistes Pls”",
+    "date": "Wed Jul 06 06:14:56  2011",
+    "favorites": 14228,
+    "rt": "12028"
+  },
+  {
+    "name": "Miguel Canales",
+    "nameScreen": "MiguelC59560236",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1561751343483834368/Dn3mvzVa_normal.jpg",
+    "text": "@jose11_gg @RicardoBSalinas @PonchoGutz Jajaja es una fiesta de cumpleaños, que weba tener que aguantar los chistes malos del teto arrastrado",
+    "date": "Thu Jun 16 23:28:00  2022",
+    "favorites": 15670,
+    "rt": "11989"
+  },
+  {
+    "name": "Luis alfonso baez",
+    "nameScreen": "Luisalfonsobae3",
+    "imgProfile": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "text": "@ghitis después del tumbe de las casa de 70 m2 a setecientos millones, y los hps periodistas prepago no dijeron no mierda y ahora haciendo chistes malos ..",
+    "date": "Tue Apr 05 03:39:24  2016",
+    "favorites": 108511,
+    "rt": "78684"
+  },
+  {
+    "name": "kiki",
+    "nameScreen": "___kikii__",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576965135599652866/ErNguK2W_normal.jpg",
+    "text": "extraño a candelita y sus chistes malos 💔",
+    "date": "Mon Oct 03 15:58:45  2022",
+    "favorites": 116,
+    "rt": "44"
+  },
+  {
+    "name": "Massiel Téllez",
+    "nameScreen": "tellez_massiel",
+    "imgProfile": "http://pbs.twimg.com/profile_images/1576786653649293313/DOpcuK26_normal.jpg",
+    "text": "De tu voz, de tus carcajadas y tus chistes malos, me estoy olvidando                   de lo segura que me sentía cuando me abrazabas o me tomabas de la mano y lo escuchada que me sentía cuando te contaba mis problemas pero creo que estarás orgullosa...",
+    "date": "Tue Oct 31 05:51:03  2017",
+    "favorites": 52,
+    "rt": "31"
+  },
+  {
+  "name": "santicasas.eth🎗" ,
+  "nameScreen": "santicasas",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1349067865283035138/xkajI2I6_normal.jpg",
+  "text": "@Anvazher @fabianplaza Mi primer ordenador fue un VIC-20 y mi primer trabajo fue de programador de Apple II...",
+  "date": "Mon Dec 29 07:55:27  2008",
+  "favorites": 39674,
+  "rt": "66153"
+},
+{
+  "name": "4Geeks Academy Latam",
+  "nameScreen": "4geeksLatam",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1545237321519349760/35y2AD7D_normal.jpg",
+  "text": "Conseguirás tu primer trabajo, empezarás a ganar dinero pero continuarás aprendiendo hasta convertirte en Senior Developer, ganar muy bien y disfrutar de la vida de un programador. #ProgramaTuHistoria Con 4Geeks Academy.",
+  "date": "Mon Aug 24 22:25:22  2020",
+  "favorites": 188,
+  "rt": "875"
+},
+{
+  "name": "Tongas💛🖤✊",
+  "nameScreen": "gastonfalco8",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1548677031122145283/nRyYmRDC_normal.jpg",
+  "text": "@piarubi @sebas166019 Mi primer trabajo,en un supermercado.Teníamos cajeros, gente atendiendo en verdulería y en los demás sectores Hoy no hay gente en verdulería y no hay cajeros, DÓNDE MIERDA SE GANAN PUESTOS DE TRABAJO??Como dijo un sorete en un comentario,pierden los cajeros,gana UN programador",
+  "date": "Mon Mar 30 01:31:39  2015",
+  "favorites": 104630,
+  "rt": "8763"
+},
+{
+  "name": "Víctor Robles WEB",
+  "nameScreen": "victorobs",
+  "imgProfile": "http://pbs.twimg.com/profile_images/714360954507669504/N3RZeyjE_normal.jpg",
+  "text": "En el video de hoy:  Te voy a enseñar cómo aprender a programar rápido y conseguir tu primer trabajo de ingeniero de software, programador o desarrollador web a tiempo completo, todo paso a paso. 🔥",
+  "date": "Sat Aug 13 14:32:50  2011",
+  "favorites": 170,
+  "rt": "12843"
+},
+{
+  "name": "Gonzalo P 🏳️❌📏✝️" ,
+  "nameScreen": "GonchiP1",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1568229930982424576/bn4l3hVG_normal.jpg",
+  "text": "@CandyCornerSL @maestra_ellen Durante mi primer trabajo como programador, un día nos tocó trabajar desde casa por una huelga de transporte (aquí le llamamos paro), como yo no tenía computadora ni internet, le pedí prestada la suya a mi madre que vivía a dos casa. Cada dos o tres horas iba a decirme que...",
+  "date": "Mon Sep 14 22:55:21  2020",
+  "favorites": 102962,
+  "rt": "48947"
+},
+{
+  "name": "Jose Antonio Martin 🇪🇸🇪🇺🌍"    ,
+  "nameScreen": "joseantonmartin",
+  "imgProfile": "http://pbs.twimg.com/profile_images/1577378477921157127/k-QDL-QE_normal.jpg",
+  "text": "Hazte un programador de primer nivel, estas webs te dan lo que necesitas",
+  "date": "Sun Apr 26 14:49:16  2009",
+  "favorites": 46089,
+  "rt": "27835"
+}
+]
+}

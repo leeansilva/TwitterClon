@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Inicio / Twitter</title>
+	<link rel="icon" href="twitter-logo.ico">
+    <link rel="apple-touch-icon" sizes="192x192" href="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7278.png"/>
+    <meta name="mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-title" content="Twitter"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="white"/>
+    <meta name="theme-color" content="#ffffff"/>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="profileStyle.css">
+	<link rel="stylesheet" type="text/css" href="normalize.css">
+	<meta name = "viewport" content = "initial-scale=1" > <meta name="viewport" content="width=device-width" >
+	<meta charset=utf-8>
+	<script src="https://kit.fontawesome.com/d99dd42c27.js" crossorigin="anonymous"></script>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/node-uuid/1.4.7/uuid.min.js"></script>
+</head>
+<body>
+	<div class="grid__container">
+		<div class="container-left">
+			
+			<nav class="pc">
+				<span><a href="" class="c-1__twitter"><i class="fa-brands fa-twitter"></i></a></span>
+				
+				
+				<div class="elements">
+				 <a href="http://localhost/Twitter/Home/Notifications/notifications.html" class="c-l __home"><i class="fa-solid fa-house"></i>Inicio</a>
+				<a href="" class="c-l __search"><i class="fa-solid fa-hashtag"></i>Explorar</a>
+				<a href="" class="c-l __notifications"><i class="fa-solid fa-bell"></i>Notificaciones</a>
+				<a href="" class="c-l __message"><i class="fa-solid fa-envelope"></i>Mensajes</a>
+				<a href="" class="c-l __saves"><i class="fa-solid fa-bookmark"></i>Guardados</a>
+				<a href="" class="c-l __list"><i class="fa-solid fa-file-lines"></i>Listas</a>
+				<a href="" class="c-l __profile"><i class="fa-solid fa-user"></i>Perfil</a>
+				<a href="" class="c-l __moreoptions"><i class="fa-solid fa-bars"></i>Más opciones</a>
+				<button type="submit" id="buttonTweet2" class="__tweetL">Twittear</button>
+				</div>
+				<div class="c-l__account">			
+				<a href="" class="account__profile"><img class="imagenProfile1" src="Profiles/leansilva.jpg" alt=""> </a>
+				<a href="" class="user"></a>	
+				<i class="fa-solid fa-bars"></i>
+
+				</div>
+				
+				
+							</nav>	
+								<nav class="responsive-nav">
+								<a href="" class="c-1 __twitter"><i class="fa-brands fa-twitter"></i></a>
+
+								<div class="elements-responsive"> 																	
+									<a href="http://localhost/Twitter/Home/home.html" class="c-l __home"><i class="fa-solid fa-house"></i></a>
+									<a href="" class="c-l __search"><i class="fa-solid fa-hashtag"></i></a>
+									<a href="http://localhost/Twitter/Home/Notifications/notifications.html" class="c-l __notifications"><i class="fa-solid fa-bell"></i></a>
+									<a href="http://localhost/Twitter/Home/Messages/messages.html" class="c-l __message"><i class="fa-solid fa-envelope"></i></a>
+									<a href="http://localhost/Twitter/Home/Bookmarks/bookmarks.html" class="c-l __saves"><i class="fa-solid fa-bookmark"></i></a>
+									<a href="http://localhost/Twitter/Home/List/list.html" class="c-l __list"><i class="fa-solid fa-file-lines"></i></a>
+									<a href="http://localhost/Twitter/Home/Profile/profile.html" class="c-l __profile"><i class="fa-solid fa-user"></i></a>
+									<div class="c-l __moreoptions"><i class="fa-solid fa-bars"></i></div>
+									<button type="submit" class="__tweetR" id="buttonTweetR"><i class="fa-solid fa-feather-pointed"></i></button>
+								</div>
+								<div class="c-l__account-responsive">			
+										<a href="" class="account__profile-responsive"><img class="imagenProfile2" src="Profiles/leansilva.jpg" alt=""></a>						
+
+								</div>
+								
+							</nav>							
+
+					
+		</div>	
+		<div class="container-center">
+					<div class="home-fixed">
+						<div class="homeFixedA">Notificaciones<br></div>
+						
+						<div class="containerN">
+							<div class="todas">Todas</div>
+							<div class="menciones">Menciones</div>
+						</div>
+					</div>
+					<div class="profileContainer">
+						
+						
+					</div>
+					<h1>Aún no hay nada para ver, cuando tengas notificaciones se verán aquí.</h1>
+					<div class="home-tweets">
+						
+						
+					</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+		
+
+		<div class="container-right">
+			<div class="c-r__search"> 
+				<i class="fa-solid fa-magnifying-glass"></i><input type="search" placeholder="Busca en Twitter">
+			</div>	
+			<div class="c-r__whatshappening">
+				<h2>Qué está pasando</h2>
+				<div class="wh__news1">
+					 <span>Noticias . 3 de agosto de 2022</span>
+						<p>Sergio Massa jura como ministro de Economía y presenta nuevas medidas</p>
+						<span>Tendencias sobre <a href="">Massa</a></span>
+				</div>
+				<div class="wh__news2">
+					 <span>Tendencias</span>	
+						<a href="" class="bars"><i class="fa-solid fa-bars-filter"></i></a>
+						<p>#tarifazo</p>
+						<span>172 mil Tweets</span>
+					
+				</div>		
+				<div class="wh__news2">
+					 <span>Tendencia en Argentina</span>	
+						<a href="" class="bars"><i class="fa-solid fa-bars-filter"></i></a>
+						<p>#Milei2023</p>
+						<span>12,7 mil Tweets</span>
+					
+				</div>
+				<div class="wh__news2">
+					 <span>Tendencias</span>	
+						<a href="" class="bars"><i class="fa-solid fa-bars-filter"></i></a>
+						<p>#LeanSilvacrack</p>
+						<span>999 mil Tweets</span>
+					
+				</div>
+				<div class="wh__news3">
+					 <span>Guerra en Ucrania . EN DIRECTO</span>
+						<p>Lo último sobre la Guerra en Ucrania</p>
+						<img src="img/ucrania.jpg" alt="">
+					
+				</div>	
+			</div>
+			<footer>
+				<a href="https://twitter.com/es/tos" target="_blank">Condiciones de Servicio</a>
+				<a href="https://twitter.com/es/privacy" target="_blank">Política de Privacidad</a>
+				<a href="https://help.twitter.com/es/rules-and-policies/twitter-cookies" target="_blank">Política de cookies</a>
+				<a href="https://help.twitter.com/es/resources/accessibility" target="_blank">Accesibilidad</a>
+				<a href="https://business.twitter.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo" target="_blank">Información de anuncios</a>
+				<a href="" target="_blank">Más opciones<i class="fa-solid fa-bars"></i></a>
+				<span>© 2022 Twitter, Inc.</span>
+			</footer>	 	
+		</div>
+
+		<!-- //modales -->
+
+		<div class="modalTweet">
+			<i id="x" class="fa-solid fa-x"></i>
+			<div class="c-c__twitt">
+				<div class="twitt__M"> <img class="imagenProfile3" id="modalImg" src="Profiles/leansilva.jpg" alt="">
+					<input class="valueTextTweet" type="text" placeholder="¿Qué está pasando?">
+				</div>
+				<a href="" class="twitt__anybody"><span class="material-icons">public</span>Cualquier persona puede responder</a>
+				<hr class="c-c__line1">
+					<div class="twitt__elements">
+						<div class="elements__buttons">
+							<a href="" title="Fotos y videos"><span class="material-icons">collections</span></a>
+							<a href="" title="GIF"><span class="material-icons">gif_box</span></a>
+							<a href="" title="Encuesta"><span class="material-icons">poll</span></a>
+							<a href="" title="Emoji"><span class="material-icons">emoji_emotions</span></a>
+							<a href="" title="Programación"><span class="material-icons">pending_actions</span></a>
+							<i><span class="material-icons">fmd_good</span></i>
+							
+						</div>
+					<button class="__tweetM">Twittear</button>			
+				
+					</div>
+			</div>
+		</div>
+				
+	</div>
+	<script src="script.js" type="text/javascript"></script>
+	<script src="post.js" type="text/javascript"></script>
+	<script src="interacciones.js" type="text/javascript"></script>
+	<script src="navInteraccioness.js" type="text/javascript"></script>
+	
+</body>
+
+</html>
